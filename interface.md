@@ -8,18 +8,19 @@ Human computer language interface
 
 ## Overview
 
-Mu is a new approach to language development that builds on a living breathing environment. Mu does not 
+Mu takes a new approach to language development that builds on a living breathing environment. We do not 
 attempt to replicate the feature set of programming languages but instead defines a more human way forward. 
 
 ## Rationale
 
-Mu is a human computer interface built on the foundations of real world services 
-rather than any sort of formally defined spec. It is firstly not a replacement for any existing programming language 
+Mu theorises of a human computer interface built on the foundations of real world services rather than any
+sort of formally defined spec. It is firstly not a replacement for any existing programming language 
 such as Go, java, ruby or python and does not attempt to be comparable to current programming models.
 
 The goal is to lay the foundation for an emergent language where the keywords are 
 services and all we attempt to do is define a grammar to associate these services 
-in a cohesive way that then lets us perform actions at a higher level.
+in a cohesive way that then lets us perform actions at a higher level. This allows 
+our language to naturally evolve and become more powerful over time.
 
 ## Design
 
@@ -73,9 +74,9 @@ A cloud can be thought of as a growing and evolving environment yet largely cont
 Rather, a network, is one in which anyone participates and evolves and morphs through that 
 participation.
 
-Mu will be backed by the [Micro](/protocol) network. An environment thats based on web3 technologies. 
-A living, breathing environment that continues to grow and evolve to service the needs of Mu. One that's 
-crowdsource rather than controlled by one company.
+Mu's interface will be backed by an open [Network](/network). An protocol thats based on web3 technologies. 
+A living, breathing environment that continues to grow and evolve to service the needs of Mu's users. One that's 
+crowdsource rather than controlled by any single company.
 
 ## Consumption
 
