@@ -3,7 +3,6 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Mu</title>
     <style>
       html, body {
         width: 100%;
@@ -28,27 +27,20 @@
       .grey {
         color: #707070;
       }
+      img {
+        width: 100%;
+        height: auto;
+      }
+      pre {
+        padding: 10px;
+        border: 1px solid;
+        background: #f5f5f5;
+      }
     </style>
   </head>
   <body>
     <div id="container">
-      <h1>Mu
-<!--
-        <a href="/" class="title" style="color: black; margin-right: 50px;">
-          <img src="/images/mu.png" height="auto" width="50px" style="display: inline; vertical-align: middle;">
-        </a>
--->
-      </h1>
-      <p class="grey">Programming the Real World</p>
-      <h2><a href="/micro">Micro</a></h2>
-      <h2><a href="/network">Network</a></h2>
-      <h2><a href="/interface">Interface</a></h2>
-    
-      <footer>
-        <h4>Follow us on <a href="https://twitter.com/mudotxyz">Twitter</a>
-          or <a href="https://mirror.xyz/0x95A522981D68213E6F2190e187d42f9e53EE0873">Mirror</a> for updates
-        </h4>
-      </footer>
+      {{ content }}
     </div>
   </body>
 </html>

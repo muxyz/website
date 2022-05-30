@@ -18,8 +18,9 @@ email:
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mu.xyz" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+logo: "/images/mu.png"
+twitter_username: mudotxyz
+github_username:  muxyz
 
 # Build settings
 markdown: kramdown
@@ -40,3 +41,5 @@ defaults:
       path: "images"
     values:
       image: true
+
+
