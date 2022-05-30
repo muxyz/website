@@ -1,6 +1,7 @@
 ---
 permalink: /micro
 layout: default
+title: "Micro"
 ---
 
 Micro is an API first development platform.

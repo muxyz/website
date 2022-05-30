@@ -1,6 +1,7 @@
 ---
 permalink: /interface
 layout: default
+title: "Interface"
 ---
 
 Human computer language interface

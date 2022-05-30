@@ -36,10 +36,18 @@
         border: 1px solid;
         background: #f5f5f5;
       }
+      ul {
+        padding-inline-start: 20px;
+      }
     </style>
   </head>
   <body>
     <div id="container">
+      {% if page.title and page.title != site.title %}
+        <h1>{{ page.title }}</h1>
+      {% elsif site.title %}
+        <h1>{{ site.title }}</h1>
+      {% endif %}
       {{ content }}
     </div>
   </body>

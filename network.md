@@ -1,6 +1,7 @@
 ---
 permalink: /network
 layout: default
+title: "Network"
 ---
 
 An open protocol for Micro services
