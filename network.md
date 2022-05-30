@@ -4,7 +4,7 @@ layout: default
 title: "Network"
 ---
 
-An protocol for Micro services
+A protocol for Micro services
 
 ## Overview
 
