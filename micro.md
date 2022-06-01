@@ -4,7 +4,7 @@ layout: default
 title: "Micro"
 ---
 
-Micro is an API first development platform.
+An API first development platform.
 
 ## Overview
 
