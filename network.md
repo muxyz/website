@@ -305,6 +305,7 @@ In the event you want to subscribe to a topic you must specify a queue.
 }
 ```
 
+See the [PROTOCOL](https://github.com/micro/network/blob/main/PROTOCOL.md) doc for more info.
 
 ## Collaboration
 
