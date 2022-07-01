@@ -425,8 +425,4 @@ If you're interested in learning more reach out or follow us on [Twitter](https:
 - **Token** - is an economic incentive used in exchange for the use of a service
 - **Server** - is the Micro server which runs the services locally or in the cloud
 
----
 
-*Author: Asim Aslam*
-
-*Last Updated: April 25th 2022*
