@@ -16,7 +16,6 @@ with the complexity of distributed systems and provides simpler programmable abs
 
 - [Introduction](https://micro.dev/introduction) - A high level introduction to Micro
 - [Getting Started](https://micro.dev/getting-started) - The helloworld quickstart guide
-- [Upgrade Guide](https://micro.dev/upgrade-guide) - Update your go-micro project to use micro v3.
 - [Architecture](https://micro.dev/architecture) - Describes the architecture, design and tradeoffs
 - [Reference](https://micro.dev/reference) - In-depth reference for Micro CLI and services
 - [Resources](https://micro.dev/resources) - External resources and contributions
