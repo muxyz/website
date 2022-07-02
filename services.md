@@ -12,7 +12,7 @@ Micro services provide the fundamental building blocks for any products, apps or
 or combined to create powerful distributed systems. The services are intended to be consumed by each other using RPC 
 and from the external world through the Micro API. All services are built as open source software.
 
-# Services
+## Catalog
 
 Services available thus far:
 
