@@ -4,8 +4,8 @@ title: Abstract
 ---
 
 <div id="blurb">
-<p>Mu is an operating system built for the real world. It's based on more than a decade of work on 
-the open source project <a href="/micro">Micro</a> and prior software.
+<p>Mu is the foundational building block for a new operating system for the real world, based on more than a decade of work 
+on the open source project <a href="/micro">Micro</a>.
 </p>
 
 <p>Today's operating systems were built in an iterative fashion to enable humans to complete tasks and 
@@ -20,12 +20,12 @@ single user modes we've come to know.
 <p>We'll have more to share soon.</p>
 </div>
 
-<h3>Projects</h3>
+<h3>Architecture</h3>
 <ul id="projects">
-<li><a href="/micro">Micro</a></li>
-<li><a href="/services">Services</a></li>
-<li><a href="/network">Network</a></li>
-<li><a href="/interface">Interface</a></li>
+<li>L0 <a href="/micro">Micro</a></li>
+<li>L1 <a href="/services">Services</a></li>
+<li>L2 <a href="/network">Network</a></li>
+<li>L3 <a href="/interface">Interface</a></li>
 </ul>
 
 <footer>
