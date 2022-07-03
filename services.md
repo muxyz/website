@@ -8,7 +8,7 @@ Real world Micro services
 
 ## Overview
 
-Micro services provide the fundamental building blocks for any products, apps or service. They can be used in isolation 
+Micro services provide the fundamental building blocks for products, apps and services. They can be used in isolation 
 or combined to create powerful distributed systems. The services are intended to be consumed by each other using RPC 
 and from the external world through the Micro API. All services are built as open source software.
 

@@ -8,12 +8,12 @@ Human computer language interface
 
 ## Overview
 
-Mu takes a new approach to language development that builds on a living breathing environment. We do not 
-attempt to replicate the feature set of programming languages but instead defines a more human way forward. 
+Micro takes a new approach to language development that builds on a living breathing environment. We do not 
+attempt to replicate the feature set of programming languages but instead define a more human way forward. 
 
 ## Rationale
 
-Mu theorises of a human computer interface built on the foundations of real world services rather than any
+Micro theorises of a human computer interface built on the foundations of real world services rather than any
 sort of formally defined spec. It is firstly not a replacement for any existing programming language 
 such as Go, java, ruby or python and does not attempt to be comparable to current programming models.
 
@@ -59,7 +59,7 @@ either be leveraged by human beings more easily, spoken as commands or used for 
 
 ## Outcome
 
-The goal is to serve as a new command & control system driven through messaging and voice. Mu looks to 
+The goal is to serve as a new command & control system driven through messaging and voice. Micro looks to 
 be human user friendly and integrate into the daily lives of people. The only way this is possible is 
 to focus on the user interaction in a way we're already comfortable with. Operations are defined in 
 real world language not programming centric models closer to human than machine.
@@ -74,13 +74,13 @@ A cloud can be thought of as a growing and evolving environment yet largely cont
 Rather, a network, is one in which anyone participates and evolves and morphs through that 
 participation.
 
-Mu's interface will be backed by an open [Network](/network). An protocol thats based on web3 technologies. 
-A living, breathing environment that continues to grow and evolve to service the needs of Mu's users. One that's 
+Micro's interface will be backed by an open [Network](/network). An protocol thats based on web3 technologies. 
+A living, breathing environment that continues to grow and evolve to service the needs of Micro's users. One that's 
 crowdsource rather than controlled by any single company.
 
 ## Consumption
 
-Mu should be consumable on web, mobile, desktop and voice devices along with whatever emerges in future. This likely 
+Micro should be consumable on web, mobile, desktop and voice devices along with whatever emerges in future. This likely 
 means starting with a focus on commands via messaging and then moving into speech to text and NLP in the longer term. 
 
 ## References 

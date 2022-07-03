@@ -1,10 +1,10 @@
 ---
-permalink: /micro
+permalink: /platform
 layout: default
-title: "Micro"
+title: "Platform"
 ---
 
-An API first development platform.
+An API first development platform
 
 ## Overview
 
