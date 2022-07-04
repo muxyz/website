@@ -14,8 +14,8 @@ Yet none of this was created based on the way we live our lives or interact with
 </p>
 
 <p>We're reimagining the OS from the ground up. Geared towards interaction through text and speech rather 
-than point and click. Driven by our values, and built as a multiplayer first experience instead of the single 
-player ones we've come to know.
+than point and click, driven by our values, and designed as a multiplayer first experience instead of the single 
+player modes we've come to know.
 </p>
 
 <p>We'll have more to share soon.</p>
