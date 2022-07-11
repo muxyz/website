@@ -23,20 +23,21 @@ player modes we've come to know.
 
 <div id="blurb">
 <p>
-The world is moving towards being driven entirely by technology. Part of that move involves shifting our experiences to digital rather than 
-physical services. In a world where everything is a service, we imagine there needs to be a system for interaction and model of development for 
-these services. What's more, there's an opportunity to provide an economic incentive to every human being to participate and benefit from 
-such a network.
+The world is moving towards being driven entirely by technology, shifting our experiences to digital rather than 
+physical, where everything is a service. We believe there's a need for a system of interaction and model of development for 
+these services. In doing so, there's an opportunity to provide an economic incentive to every human being on the planet 
+to participate and benefit from it.
 </p>
 <p>
-In our current world, the few dominate the many. The term FANG, has come to reference the global tech incumbents that rule our lives, our 
-digital footprint and more. They benefit financially from all our actions and deliver addictive systems that are impossible to break 
-free of. We have a chance to build a system in which these behaviours are removed, where the morals and ethics are coded into systems which 
-are openly and transparently available for all to see and use.
+In our current world, few dominate the many. The term FANG, has come to reference the global tech incumbents that rule our lives.
+They benefit from exploiting our actions and deliver addictive systems that are impossible to break free of. We have a chance to 
+build a system which removes these exploits and creates a more free, transparent and open economy.
 </p>
 </div>
 
 ## Architecture
+
+Learn about the multi-layered architecture of the OS below
 
 <ul id="projects">
 <li>L0 <a href="/platform">Platform</a></li>
