@@ -24,13 +24,13 @@ player modes we've come to know.
 <div id="blurb">
 <p>
 The world is moving towards being driven entirely by technology, shifting our experiences to digital rather than 
-physical, where everything is a service. We believe there's a need for a system of interaction and model of development for 
-these services. In doing so, there's an opportunity to provide an economic incentive to every human being on the planet 
-to participate and benefit from it.
+physical, where everything is a service. We believe there needs to be a system of interaction and model of development for 
+these services. By doing so, we can create a new services economy in which every human being on the planet 
+can participate and benefit from.
 </p>
 <p>
 In our current world, few dominate the many. The term FANG, has come to reference the global tech incumbents that rule our lives.
-They benefit from exploiting our actions and deliver addictive systems that are impossible to break free of. We have a chance to 
+They benefit from exploiting our actions and deliver addictive services that are impossible to break free of. We have a chance to 
 build a system which removes these exploits and creates a more free, transparent and open economy.
 </p>
 </div>
