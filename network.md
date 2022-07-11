@@ -18,18 +18,6 @@ Micro will enable users to run their own nodes that offer services to anyone els
 peer with. Each node will act as a gateway to the entire network, allowing the owner to benefit 
 financially from it's use.
 
-## Motivation
-
-The world is moving towards being driven entirely by technology. Part of that move involves shifting our experiences to digital rather than 
-physical services. In a world where everything is a service, we imagine there needs to be a system for interaction and model of development for 
-these services. What's more, there's an opportunity to provide an economic incentive to every human being to participate and benefit from 
-such a network.
-
-In our current world, the few dominate the many. The term FANG, has come to reference the global tech incumbents that rule our lives, our 
-digital footprint and more. They benefit financially from all our actions and deliver addictive systems that are impossible to break 
-free of. We have a chance to build a system in which these behaviours are removed, where the morals and ethics are coded into systems which 
-are openly and transparently available for all to see and use.
-
 ## Mission
 
 The micro network's purpose is to create a truly open and free network for services that anyone can participate in and benefit from without 
