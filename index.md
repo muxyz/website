@@ -9,7 +9,7 @@ It's based on more than a decade of work on the open source project <a href="htt
 </p>
 
 <p>Today's operating systems were built to enable humans to complete tasks and 
-do work, later reshaped by the internet and repurposed for entertainment and social services. 
+do work, later reshaped by the internet and repurposed for entertainment and social networks. 
 Yet none of this was created based on the way we live our lives or interact with people and the world around us.
 </p>
 
