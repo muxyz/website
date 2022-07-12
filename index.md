@@ -30,8 +30,8 @@ can participate and benefit from.
 </p>
 <p>
 In our current world, few dominate the many. The term FANG, has come to reference the global tech incumbents that rule our lives.
-They benefit from exploiting our actions and deliver addictive services that are impossible to break free of. We have a chance to 
-build a system which removes these exploits and creates a more free, transparent and open economy.
+They benefit from exploiting our actions and deliver addictive services that are impossible to break free of. We have the chance to 
+build a new network which removes these exploits and creates a more free, transparent and open economy.
 </p>
 </div>
 
