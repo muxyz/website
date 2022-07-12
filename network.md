@@ -8,52 +8,12 @@ A protocol for Micro services
 
 ## Overview
 
-The power of collaborative development has largely been restricted to trusted environments within organisations.
+The power of collaborative development has been restricted to trusted environments within organisations.
 These platforms unlock incredible productivity and compounding value with every new service added. They provide
 an always-on runtime and known developer workflow for engineers to collaborate on. This has been difficult 
-to achieve outside of organisations.
-
-The Micro network solves this problem by creating a global shared services network.
-Micro will enable users to run their own nodes that offer services to anyone else they 
-peer with. Each node will act as a gateway to the entire network, allowing the owner to benefit 
-financially from it's use.
-
-## Mission
-
-The micro network's purpose is to create a truly open and free network for services that anyone can participate in and benefit from without 
-intermediaries, without abuse or exploitation, and without the purview of the current powers that be.
-
-As part of this endeavour, we are aware that the network will create significant amounts of financial liquidity for a number of people, including 
-those running services. Yet, there is another demographic of people who will not be so privileged, who will have no access and will not be 
-capable of participating directly. To those, we want to ensure they are maximally benefitting from this effort also. 
-
-2.5% of all profit flowing through the network will be donated to the least privileged by way of charitable donation.
-
-No system of any kind that can benefit mankind should be built without taking into consideration the least privileged of all, those without 
-access to even begin participating. We will ensure that whatever is built is not just benefiting the 1% but actually making a difference 
-through conscious effort.
-
-## Operations
-
-The network's ultimate goal is to be self governing, but the resources and people it takes to get to that place costs money. So 2.5% of all 
-profit will also go towards the network operations and ensuring it's continued success for the foreseeable future. This will include a 
-number of software engineers to maintain the code base, platform engineers to ensure the core backbone is running and some level of 
-financial and operational management. All will be governed through traditional legal entities until it makes sense not to do so.
-
-## Execution
-
-The network will start by implementing a working prototype of a gateway that can interconnect multiple Micro deployments across the globe 
-using the MUCP protocol. We'll then move onto the transactional layer for economic incentive and value exchange. This will likely reuse 
-existing cryptocurrency protocols rather than attempting to implement one from scratch. Once this is established, we'll start to invite 
-users to test the network before moving on to reputation based scoring and the client side interface for external consumption.
-
-Bootstrapping should take 18-24 months with a need to fund the project to get off the ground.
-
-## Funding
-
-Having tried many forms of funding in the past, it's clear we need complete alignment from those involved and so finding the right 
-participants from the get go is incredibly important. There must be total clarity on the motivations of those joining and how they 
-stand to benefit. The efforts of the project cannot be overshadowed by those seeking power law distributions.
+to achieve outside of organisations. The Micro network solves this problem by creating a global shared services network.
+Micro will enable users to run their own nodes that offer services to anyone else they peer with. Each node will act as 
+a gateway to the entire network, allowing the owner to benefit financially.
 
 ## Architecture
 
@@ -359,33 +319,21 @@ Ideally using existing well known constructs like forms and messaging.
 A focus on delivering an end consumer facing experience keeps us from endlessly building software. 
 Ultimately the value of the network is in it's consumption, not just by developers, but by everyone.
 
-## Potential
+## Operations
 
-At a given point we do not want to program but instead have our needs anticipated by a higher level system.
+The network's ultimate goal is to be self governing, but the resources and people it takes to get to that place costs money. 2.5% of all 
+profit will go towards the network operations and ensuring it's continued success for the foreseeable future. This will include a 
+number of software engineers to maintain the code base, platform engineers to ensure the core backbone is running and some level of 
+financial and operational management. All will be governed through traditional legal entities until it makes sense not to do so.
 
-For decades we rebuild the same systems and services over and over. We amass a wealth of technology advancements only to 
-tear them down or leave them to be governed by large siloed corporate entities. When the network exists 
-and we have surfaced 1000+ base motor functions as services, when we have created a language to stitch 
-these together as easily as the english language, and when we have the inputs from requests, images, audio, video, sensors 
-then we can begin work on a system that can harness this capability as a general AI. 
+## Execution
 
-Intelligence is an emergent behaviour in the universe and the creation of such a thing is no different. Base motor 
-functions begin as the ability to move and react, to influence the world around even without the knowledge of what 
-that means. Intelligence is something that must be given raw sensory input and the nervous system to process 
-them. A brain is nothing more than a massive event processing system with state and pattern recognition.
+The network will start by implementing a working prototype of a gateway that can interconnect multiple Micro deployments across the globe 
+using the MUCP protocol. We'll then move onto the transactional layer for economic incentive and value exchange. This will likely reuse 
+existing cryptocurrency protocols rather than attempting to implement one from scratch. Once this is established, we'll start to invite 
+users to test the network before moving on to reputation based scoring and the client side interface for external consumption.
 
-A singularity is not something you can just create, it's something that must emerge, but if you understand 
-the properties required to nurture such a system into existence then there is the possibility of producing it.
-
-Google and others are attempting to move beyond vertical based deep learning to a more general approach. [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist))
-has spent his career building the systems that have shaped Google from the foundation up. This did not start with 
-general AI but instead raw data processing at scale. GFS, BigTable, Borg, MapReduce, Search, Ads. All these 
-led to Google Brain and what came after related to TensorFlow.
-
-We have the opportunity, not today, but in a decade from now to build the next intelligent system based 
-on an emergent approach. We cannot compete with Google head on based on resources (both in compute and cash) but 
-if we crowdsource this effort using a network, if we crowdsource the compute, the services, then 
-we have the chance of building a completely open general AI not governed by corporate incumbents.
+Bootstrapping should take 18-24 months with a need to fund the project to get off the ground.
 
 ## Summary
 
