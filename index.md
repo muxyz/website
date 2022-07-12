@@ -14,8 +14,7 @@ Yet none of this was created based on the way we live our lives or interact with
 </p>
 
 <p>We're reimagining the OS from the ground up. Geared towards interaction through text and speech rather 
-than point and click, driven by values, and designed as a multiplayer first experience instead of the single 
-player modes we've come to know.
+than point and click, driven by values, and designed as a multiplayer first experience.
 </p>
 </div>
 
@@ -24,14 +23,13 @@ player modes we've come to know.
 <div id="blurb">
 <p>
 The world is moving towards being driven entirely by technology, shifting our experiences to digital rather than 
-physical, where everything is a service. We believe there needs to be a system of interaction and model of development for 
-these services. By doing so, we can create a new services economy in which every human being on the planet 
-can participate and benefit from.
+physical, where everything is a service. In this new world, we believe there needs to be a model for development and system of interaction for 
+these services.
 </p>
 <p>
-In our current world, few dominate the many. The term FANG, has come to reference the global tech incumbents that rule our lives.
+In our current world, the global tech incumbents rule our lives.
 They benefit from exploiting our actions and deliver addictive services that are impossible to break free of. We have the chance to 
-build a new network which removes these exploits and creates a more free, transparent and open economy.
+build a new system which removes these exploits and creates a more free, transparent and open economy.
 </p>
 </div>
 
