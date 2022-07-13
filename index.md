@@ -42,7 +42,7 @@ we know and have come to rely upon.
 <h2>Mission</h2>
 
 <p>
-The Micro Network will create significant liquidity for a number of people, including
+The <a href="/network">Micro Network</a> will create significant liquidity for a number of people, including
 those running services. Yet, there is another demographic of people who will not be so privileged and will not be
 able to participate directly. For those people, we want to ensure they are also benefitting from our efforts.
 </p>
