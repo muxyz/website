@@ -5,19 +5,20 @@ title: "Mu: An Operating System for Life"
 
 <div id="blurb">
 <h2>Abstract</h2>
+<p>Today's operating systems were built for humans to complete tasks and do work, later reshaped by the internet, 
+repurposed for entertainment, advertising and social networks. They were not built based around the way we live our lives 
+or how we interact with people and the world around us.
+</p>
+
+<p>We're reimagining an OS from the ground up. Geared towards multiplayer first experiences through messaging
+and voice rather than single user mode point and click. Driven by values, not exploitive consumerism.
+</p>
+
 <p>The Micro foundation is defining the building blocks of a new networked operating system for real world services.
 It's based on more than a decade of work on the open source project <a href="https://micro.dev">Micro</a> - an API first 
 development platform.
 </p>
 
-<p>Today's operating systems were created for humans to complete tasks and do work, later reshaped by the internet and 
-repurposed for entertainment and social networks. They were not built based around the way we live our lives or interact with people
-and the world around us.
-</p>
-
-<p>We're reimagining an OS from the ground up. Geared towards multiplayer first experiences through messaging
-and voice rather than singler user mode point and click. Driven by values, not exploitive consumerism.
-</p>
 </div>
 
 <div id="blurb">
