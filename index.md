@@ -6,17 +6,17 @@ title: Mu
 <div id="blurb">
 <h2>Abstract</h2>
 <p>The Micro foundation (Mu) is defining the building blocks of a new networked operating system for real world services.
-It's based on more than a decade of work on the <a href="https://micro.dev">Micro</a> platform - an open source API first 
-development platform.
+It's based on more than a decade of work on the <a href="https://micro.dev">Micro</a> platform - an open source API first
+development runtime.
 </p>
 
 <p>Today's operating systems were created for humans to complete tasks and do work, later reshaped by the internet and 
-repurposed for entertainment and social networks. They were not built based on how we live our lives or the way we 
-interact with people and the world around us.
+repurposed for entertainment and social networks. They were not built based on the way we live our lives or interact with people
+and the world around us.
 </p>
 
-<p>We're reimagining an OS from the ground up. Geared towards multiplayer first experiences, interaction through text and 
-speech rather than point and click and driven by our values as opposed to consumerism.
+<p>We're reimagining an OS from the ground up. Geared towards multiplayer first experiences through messaging
+and voice rather than singler user mode point and click. Driven by values, not exploitive consumerism.
 </p>
 </div>
 
@@ -42,13 +42,12 @@ we know and have come to rely upon.
 <h2>Mission</h2>
 
 <p>
-The <a href="/network">Micro Network</a> will create significant liquidity for a number of people, including
-those running services. Yet, there is another demographic of people who will not be so privileged and will not be
-able to participate directly. For those people, we want to ensure they are also benefitting from our efforts.
+The <a href="/network">Micro Network</a> will create significant financial liquidity for a number of people, however, there is another 
+demographic who will not be so privileged. For those people, we want to ensure they are also benefitting from our efforts.
 </p>
 
 <p>
-2.5% of wallet balances in the network will be redistributed yearly to the least privileged by way of charitable donation. 
+2.5% of token holdings in the network will be redistributed yearly to the least privileged by way of charitable donation. 
 It will be a wealth tax applied to all.
 </p>
 
@@ -63,15 +62,15 @@ through conscious effort.
 <h2>Potential</h2>
 <p>
 At a certain point we do not want to command systems but instead have our needs anticipated by something more intelligent.
-Intelligence is an emergent behaviour in the universe and the creation of such a system is no different.
+Intelligence is an emergent property in the universe and the creation of such a system is no different.
 </p>
 <p>
 The singularity is not something that can just be manifest from nothing. It requires immense power, research and development, 
-which only the likes of Google and others are capable of doing.
+which only the likes of Google are capable of doing.
 </p>
 <p>
-There is an opportunity for us to build the next system of intelligence using an emergent model. Taking a crowdsourced approach, 
-we have the chance to fund the development of an open AI not governed by the incumbents.
+There is an opportunity for us to build the next system of intelligence using an emergent model. Crowdsourcing our own power
+and development, we can potentially build an open general AI not governed by the tech incumbents.
 </p>
 </div>
 
