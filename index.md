@@ -66,13 +66,12 @@ At a certain point we do not want to command systems but instead have our needs 
 Intelligence is an emergent behaviour in the universe and the creation of such a system is no different.
 </p>
 <p>
-The singularity is not something that can just be created, it must emerge. Google and others are attempting to develop 
-this technology and they have the immense resources to fund that research.
+The singularity is not something that can just be manifest from nothing. It requires immense power, research and development, 
+which only the likes of Google and others are capable of doing.
 </p>
 <p>
-There is an opportunity to build the next intelligent system using an emergent model. We can't compete with Google and others directly
-but if we take on a crowdsourced approach, using a network, then we have the chance of building a completely open general AI not 
-governed by the tech incumbents.
+There is an opportunity for us to build the next system of intelligence using an emergent model. Taking a crowdsourced approach, 
+we have the chance to fund the development of an open AI not governed by the incumbents.
 </p>
 </div>
 
