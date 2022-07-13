@@ -10,9 +10,9 @@ It's based on more than a decade of work on <a href="https://micro.dev">Micro</a
 platform.
 </p>
 
-<p>Today's operating systems were created for humans to complete tasks and 
-work, later reshaped by the internet and repurposed for entertainment and social networks. 
-They were not built based on the way we live our lives or interact with people and the world around us.
+<p>Today's operating systems were created for humans to complete tasks and work, later reshaped by the internet and 
+repurposed for entertainment and social networks. They were not built based on how we live our lives or the way we 
+interact with people and the world around us.
 </p>
 
 <p>We're reimagining an OS from the ground up. Geared towards multiplayer first experiences, interaction through text and 
