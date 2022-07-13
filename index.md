@@ -5,8 +5,8 @@ title: "Mu: An Operating System for Life"
 
 <div id="blurb">
 <h2>Abstract</h2>
-<p>Today's operating systems were built for humans to complete tasks and do work, later reshaped by the internet, 
-repurposed for entertainment, advertising and social networks. They were not built based around the way we live our lives 
+<p>Today's operating systems were created for humans to complete tasks and do work, later reshaped by the internet, 
+repurposed for entertainment, advertising and social networks. They were not built based on the way we live our lives 
 or how we interact with people and the world around us.
 </p>
 
@@ -71,7 +71,7 @@ which only the likes of Google are capable of doing.
 </p>
 <p>
 There is an opportunity for us to build the next system of intelligence using an emergent model. Crowdsourcing our own power
-and development, we can potentially build an open general AI not governed by the tech incumbents.
+and development, we can build an open general AI not governed by the tech incumbents.
 </p>
 </div>
 
