@@ -77,7 +77,7 @@ we have the chance to fund the development of an open AI not governed by the inc
 
 ## More Info
 
-Learn about the Micro OS
+Learn more about the Micro OS
 
 <ul id="projects">
 <li>L0 <a href="/platform">Platform</a></li>
