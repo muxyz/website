@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mu
+title: MuOS - An operating system for Life
 ---
 
 <div id="blurb">
