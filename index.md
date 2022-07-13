@@ -1,6 +1,6 @@
 ---
 layout: default
-title: An Operating System for Life
+title: "Mu: An Operating System for Life"
 ---
 
 <div id="blurb">
@@ -21,7 +21,7 @@ and voice rather than singler user mode point and click. Driven by values, not e
 </div>
 
 <div id="blurb">
-<h2>Motivation</h2>
+<h2>Introduction</h2>
 <p>
 The world is moving towards being driven entirely by technology, shifting our experiences to digital rather than 
 physical, where everything is a service. In this new world, we believe there needs to be a model for development and system of interaction for 
