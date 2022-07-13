@@ -33,8 +33,8 @@ They benefit from exploiting our actions and deliver addictive services that are
 build a new system which removes these exploits and creates a more free, transparent and open economy.
 </p>
 <p>
-Micro is a multi-decade effort which will result in the creation of an open alternative to the existing services we've come to know and 
-rely on.
+The Micro OS will result in the creation of an open, value based, alternative to the existing services and systems 
+we know and have come to rely upon.
 </p>
 </div>
 
