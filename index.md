@@ -20,6 +20,24 @@ than point and click, driven by values, and designed as a multiplayer first expe
 </div>
 
 <div id="blurb">
+<h2>Motivation</h2>
+<p>
+The world is moving towards being driven entirely by technology, shifting our experiences to digital rather than 
+physical, where everything is a service. In this new world, we believe there needs to be a model for development and system of interaction for 
+these services.
+</p>
+<p>
+In our current world, the global tech incumbents rule our lives.
+They benefit from exploiting our actions and deliver addictive services that are impossible to break free of. We have the chance to 
+build a new system which removes these exploits and creates a more free, transparent and open economy.
+</p>
+<p>
+Micro is a multi-decade effort which will result in the creation of an open alternative to the existing services we've come to know and 
+rely on.
+</p>
+</div>
+
+<div id="blurb">
 <h2>Mission</h2>
 
 <p>
@@ -37,24 +55,6 @@ It will be a wealth tax applied to all.
 No system that benefits mankind should be created without taking the least privileged into consideration, those without
 the ability to participate. We will ensure what's built is not just benefiting the 1% but making a difference to all
 through conscious effort.
-</p>
-</div>
-
-<div id="blurb">
-<h2>Motivation</h2>
-<p>
-The world is moving towards being driven entirely by technology, shifting our experiences to digital rather than 
-physical, where everything is a service. In this new world, we believe there needs to be a model for development and system of interaction for 
-these services.
-</p>
-<p>
-In our current world, the global tech incumbents rule our lives.
-They benefit from exploiting our actions and deliver addictive services that are impossible to break free of. We have the chance to 
-build a new system which removes these exploits and creates a more free, transparent and open economy.
-</p>
-<p>
-Micro is a multi-decade effort which will result in the creation of an open alternative to the existing services we've come to know and 
-rely on.
 </p>
 </div>
 
