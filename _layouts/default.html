@@ -5,9 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{% if page.title and page.title != site.title %}{{ page.title }} | {% endif %}Mu</title>
     <style>
+      @import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;800&display=swap');
+
       html, body {
         width: 100%;
-        font-family:  "Helvetica Neue", Helvetica, Arial, "Lucida Grande";
+        font-family: Karla, sans-serif;
         font-size: 0.9em;
         color: #333;
         margin: 0;
@@ -29,6 +31,10 @@
       #container {
         max-width: 1024px;
         margin: 0 auto;
+      }
+      #title {
+        font-family: "Karla", sans-serif;
+        font-weight: 800;
       }
       #blurb {
         max-width: 475px;
@@ -76,7 +82,7 @@
       </div>
       <div id="container">
         {% if page.title and page.title != site.title %}
-          <h1>{{ page.title }}</h1>
+          <h1 id="title">{{ page.title }}</h1>
         {% endif %}
         {{ content }}
       </div>
