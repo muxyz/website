@@ -75,9 +75,9 @@ we have the chance to fund the development of an open AI not governed by the inc
 </p>
 </div>
 
-## Architecture
+## More Info
 
-Learn about the multi-layered architecture of the OS below
+Learn about the Micro OS
 
 <ul id="projects">
 <li>L0 <a href="/platform">Platform</a></li>
@@ -87,6 +87,6 @@ Learn about the multi-layered architecture of the OS below
 </ul>
 
 <footer>
-Follow us on <a href="https://twitter.com/mudotxyz">Twitter</a>
+See <a href="https://twitter.com/mudotxyz">Twitter</a>
   or <a href="https://mirror.xyz/0x95A522981D68213E6F2190e187d42f9e53EE0873">Mirror</a> for updates
 </footer>
