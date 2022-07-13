@@ -15,8 +15,8 @@ work, later reshaped by the internet and repurposed for entertainment and social
 They were not built based on the way we live our lives or interact with people and the world around us.
 </p>
 
-<p>We're reimagining the OS from the ground up. Geared towards interaction through text and speech rather 
-than point and click, driven by values, and designed as a multiplayer first experience.
+<p>We're reimagining an OS from the ground up. Geared towards multiplayer first experiences, interaction through text and 
+speech rather than point and click and driven by our values as opposed to commercial consumerism.
 </p>
 </div>
 
