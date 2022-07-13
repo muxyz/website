@@ -14,11 +14,9 @@ or how we interact with people and the world around us.
 and voice rather than single user mode point and click. Driven by values, not exploitive consumerism.
 </p>
 
-<p>The Micro foundation is defining the building blocks of a new networked operating system for real world services.
-It's based on more than a decade of work on the open source project <a href="https://micro.dev">Micro</a> - an API first 
-development platform.
+<p>The outcome is to define the building blocks of a new operating system for the real world and launch an open services economy
+which anyone can participate in, contribute to or benefit from.
 </p>
-
 </div>
 
 <div id="blurb">
@@ -31,11 +29,11 @@ these services.
 <p>
 In our current world, the global tech incumbents rule our lives.
 They benefit from exploiting our actions and deliver addictive services that are impossible to break free from. We have the chance to 
-build a new system which removes these exploits and creates a more free, transparent and open economy.
+build a new system which removes these exploits and creates a more free, transparent and open services economy.
 </p>
 <p>
-The Micro OS (Mu) will result in the creation of an open, value based, alternative to the existing services and systems 
-we know and have come to rely upon.
+If successful, Mu will be the foundation for this open, value based, alternative to the existing services and systems 
+we've come to know and rely upon.
 </p>
 </div>
 
@@ -43,7 +41,7 @@ we know and have come to rely upon.
 <h2>Mission</h2>
 
 <p>
-The <a href="/network">Network</a> will create significant financial liquidity for a number of people, however, there is another 
+Our <a href="/network">Network</a> will create significant financial liquidity for a number of people, however, there is another 
 demographic who will not be so privileged. For those people, we want to ensure they are also benefitting from our efforts.
 </p>
 
@@ -77,13 +75,15 @@ and development, we can build an open general AI not governed by the tech incumb
 
 ## More Info
 
+Mu is based on the open source project <a href="https://micro.dev">Micro</a>.
+
 Learn more about the OS
 
 <ul id="projects">
-<li>L0 <a href="/platform">Platform</a></li>
-<li>L1 <a href="/services">Services</a></li>
-<li>L2 <a href="/network">Network</a></li>
-<li>L3 <a href="/interface">Interface</a></li>
+<li>L1 <a href="/platform">Platform</a></li>
+<li>L2 <a href="/services">Services</a></li>
+<li>L3 <a href="/network">Network</a></li>
+<li>L4 <a href="/interface">Interface</a></li>
 </ul>
 
 <footer>
