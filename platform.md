@@ -4,7 +4,7 @@ layout: default
 title: "Platform"
 ---
 
-An API first development platform
+API first development platform
 
 ## Overview
 
