@@ -5,7 +5,7 @@ title: Mu
 
 <div id="blurb">
 <h2>Abstract</h2>
-<p>The Micro foundation (Mu) is defining the building blocks of a new networked operating system for the real world. 
+<p>The Micro foundation (Mu) is defining the building blocks of a new networked operating system for real world services.
 It's based on more than a decade of work on the open source project <a href="https://micro.dev">Micro</a> - an API 
 first development platform.
 </p>
