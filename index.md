@@ -16,7 +16,7 @@ interact with people and the world around us.
 </p>
 
 <p>We're reimagining an OS from the ground up. Geared towards multiplayer first experiences, interaction through text and 
-speech rather than point and click and driven by our values as opposed to commercial consumerism.
+speech rather than point and click and driven by our values as opposed to consumerism.
 </p>
 </div>
 
