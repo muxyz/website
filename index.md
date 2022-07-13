@@ -76,7 +76,7 @@ and development, we can potentially build an open general AI not governed by the
 
 ## More Info
 
-Learn more about the Micro OS
+Learn more about the OS
 
 <ul id="projects">
 <li>L0 <a href="/platform">Platform</a></li>
