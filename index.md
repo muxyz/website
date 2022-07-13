@@ -77,7 +77,7 @@ and development, we can build an open general AI not governed by the tech incumb
 
 Mu is based on the open source project <a href="https://micro.dev">Micro</a>.
 
-Learn more about the OS
+Learn more about the OS and Micro
 
 <ul id="projects">
 <li>L1 <a href="/platform">Platform</a></li>
