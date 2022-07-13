@@ -5,7 +5,7 @@ title: "Mu: An Operating System for Life"
 
 <div id="blurb">
 <h2>Abstract</h2>
-<p>The Micro foundation (Mu) is defining the building blocks of a new networked operating system for real world services.
+<p>The Micro foundation is defining the building blocks of a new networked operating system for real world services.
 It's based on more than a decade of work on the open source project <a href="https://micro.dev">Micro</a> - an API first 
 development platform.
 </p>
@@ -33,7 +33,7 @@ They benefit from exploiting our actions and deliver addictive services that are
 build a new system which removes these exploits and creates a more free, transparent and open economy.
 </p>
 <p>
-The Micro OS will result in the creation of an open, value based, alternative to the existing services and systems 
+The Micro OS (Mu) will result in the creation of an open, value based, alternative to the existing services and systems 
 we know and have come to rely upon.
 </p>
 </div>
@@ -42,7 +42,7 @@ we know and have come to rely upon.
 <h2>Mission</h2>
 
 <p>
-The <a href="/network">Micro Network</a> will create significant financial liquidity for a number of people, however, there is another 
+The <a href="/network">Network</a> will create significant financial liquidity for a number of people, however, there is another 
 demographic who will not be so privileged. For those people, we want to ensure they are also benefitting from our efforts.
 </p>
 
