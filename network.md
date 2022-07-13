@@ -306,19 +306,6 @@ system into the network to provide this resource usage model via exchange of tok
 
 Here's a good explanation of [Token Economics](https://www.investinblockchain.com/token-economics/).
 
-## Interface
-
-The Micro development model has been proven out over a number of years using the [Go](https://go.dev) based programming language and 
-supplementary client libraries which enable broad access to developers but mass appeal and consumption of services without programming will 
-require an entirely new approach.
-
-We propose the development of a client interface to compliment the development model which focuses on the end consumer. Where developers 
-and operators will focus on the infrastructure and programming, the client interface will enable anyone to access services via web or mobile. 
-Ideally using existing well known constructs like forms and messaging.
-
-A focus on delivering an end consumer facing experience keeps us from endlessly building software. 
-Ultimately the value of the network is in it's consumption, not just by developers, but by everyone.
-
 ## Operations
 
 The network's ultimate goal is to be self governing, but the resources and people it takes to get to that place costs money. 2.5% of all 
@@ -331,7 +318,7 @@ financial and operational management. All will be governed through traditional l
 The network will start by implementing a working prototype of a gateway that can interconnect multiple Micro deployments across the globe 
 using the MUCP protocol. We'll then move onto the transactional layer for economic incentive and value exchange. This will likely reuse 
 existing cryptocurrency protocols rather than attempting to implement one from scratch. Once this is established, we'll start to invite 
-users to test the network before moving on to reputation based scoring and the client side interface for external consumption.
+users to test the network before moving on to reputation based scoring and a client side interface for external consumption.
 
 Bootstrapping should take 18-24 months with a need to fund the project to get off the ground.
 
