@@ -51,9 +51,8 @@ It will be a wealth tax applied to all.
 </p>
 
 <p>
-No system that benefits mankind should be created without taking the least privileged into consideration, those without
-the ability to participate. We will ensure what's built is not just benefiting the 1% but making a difference to all
-through conscious effort.
+No system that benefits mankind should be created without taking the least privileged into consideration. We will ensure what's 
+built is not just benefiting the 1% but making a difference to all through conscious effort.
 </p>
 </div>
 
