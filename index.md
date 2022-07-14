@@ -58,7 +58,7 @@ built is not just benefiting the 1% but making a difference to all through consc
 </div>
 
 <div id="blurb">
-<h2>Potential</h2>
+<h2>Future</h2>
 <p>
 At a certain point we do not want to command systems but instead have our needs anticipated by something more intelligent.
 Intelligence is an emergent property in the universe and the creation of such a system is no different.
