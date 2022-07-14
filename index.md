@@ -2,7 +2,8 @@
 layout: default
 title: "Mu: An Operating System for Life"
 ---
-
+Asim Aslam<br>
+asim@micro.mu<br>
 <div id="blurb">
 <h2>Abstract</h2>
 <p>Today's operating systems were created for humans to complete tasks and do work, later reshaped by the internet, 
