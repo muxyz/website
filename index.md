@@ -39,7 +39,7 @@ we've come to know and rely upon.
 </div>
 
 <div id="blurb">
-<h2>Mission</h2>
+<h2>Economics</h2>
 
 <p>
 Our <a href="/network">Network</a> will create significant financial liquidity for a number of people, however, there is another 
@@ -58,7 +58,7 @@ built is not just benefiting the 1% but making a difference to all through consc
 </div>
 
 <div id="blurb">
-<h2>Future</h2>
+<h2>Intelligence</h2>
 <p>
 At a certain point we do not want to command systems but instead have our needs anticipated by something more intelligent.
 Intelligence is an emergent property in the universe and the creation of such a system is no different.
