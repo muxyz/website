@@ -320,18 +320,12 @@ using the MUCP protocol. We'll then move onto the transactional layer for econom
 existing cryptocurrency protocols rather than attempting to implement one from scratch. Once this is established, we'll start to invite 
 users to test the network before moving on to reputation based scoring and a client side interface for external consumption.
 
-Bootstrapping should take 18-24 months with a need to fund the project to get off the ground.
-
 ## Summary
 
 The Micro network is an open global services network that enables anyone to participate in the exchange and use of digital services. It's 
 an entirely open source and free service to operate. Participation in which will result in creation of a new services economy directly 
 benefiting the owners and operators of the nodes on the network. End users will be able to leverage all of these services in a familiar 
 and easy to use messaging or voice based interface. 
-
-Micro has the potential to break us free of existing centralised technological platforms and enable the creation of a new entirely open 
-network that anyone can benefit from and be part of. It will leverage as much existing open source and web3 technology as possible to 
-build on the foundations of what has already been started.
 
 ## Glossary
 
