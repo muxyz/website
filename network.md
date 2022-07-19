@@ -304,8 +304,6 @@ This is where [Token Economics](https://en.wikipedia.org/wiki/Token_economy) pla
 of the network and/or services on the network should be rewarded accordingly. Our goal is to build a native tokenized transaction
 system into the network to provide this resource usage model via exchange of tokens for services.
 
-Here's a good explanation of [Token Economics](https://www.investinblockchain.com/token-economics/).
-
 ## Operations
 
 The network's ultimate goal is to be self governing, but the resources and people it takes to get to that place costs money. 2.5% of all 
