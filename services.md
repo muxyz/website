@@ -83,7 +83,6 @@ Services available thus far:
 - analytics - Track and retrieve events
 - tunnel - Tunnel HTTP requests
 - price - Global commodities index
-- github - # Github Service
 - joke - Funny Jokes
 - dns - DNS over HTTPS (DoH)
 - webhook - # Webhook Service
