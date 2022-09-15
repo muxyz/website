@@ -44,7 +44,6 @@ The server is composed of the following services.
 - **Runtime** - Service lifecycle and process management with support for source to running auto build
 - **Registry** - Centralised service discovery and API endpoint explorer with feature rich metadata
 - **Store** - Key-Value storage with TTL expiry and persistent crud to keep microservices stateless
-- **Web** - Simple web dashboard with dynamic forms to describe and query services in the browser
 
 **Framework**
 
@@ -58,6 +57,11 @@ Micro brings not only a rich architectural model but a command line experience t
 dynamic command mapping for all services running on the platform. Turns any service instantly into a CLI command along with flag parsing 
 for inputs. Includes support for multiple environments and namespaces, automatic refreshing of auth credentials, creating and running 
 services, status info and log streaming, plus much, much more.
+
+**Dashboard**
+
+Explore, discover and consume services via a browser using Micro Web. The dashboard makes use of your env configuration to locate the server 
+and provides dynamic form fill for services.
 
 **Environments**
 
