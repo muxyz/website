@@ -87,6 +87,6 @@ Learn more about the OS and Micro
 </ul>
 
 <footer>
-See <a href="https://discord.gg/XNajyvr5Gj">Discord</a>, <a href="https://twitter.com/mudotxyz">Twitter</a>
+See <a href="https://twitter.com/mudotxyz">Twitter</a>
   or <a href="https://mirror.xyz/0x95A522981D68213E6F2190e187d42f9e53EE0873">Mirror</a> for more info
 </footer>
