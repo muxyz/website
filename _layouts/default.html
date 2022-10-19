@@ -43,10 +43,16 @@
         font-weight: 800;
       }
       #blurb {
-        max-width: 475px;
+	width: 45%;
+        max-width: 650px;
         margin-right: 3%;
         display: inline-block;
         vertical-align: top;
+      }
+      @media only screen and (max-width: 650px) {
+	#blurb {
+	  width: 100%;
+	}
       }
       #footer {
         margin-bottom: 50px;
