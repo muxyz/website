@@ -6,13 +6,13 @@ Asim Aslam<br>
 asim@micro.mu<br>
 <div id="blurb">
 <h2>Abstract</h2>
-<p>Today's operating systems were created for humans to complete tasks and do work, later reshaped by the internet, 
-repurposed for entertainment, advertising and social networks. They were not built based on the way we live our lives 
-or how we interact with people and the world around us.
+<p>Today's platforms were created for humans to complete tasks and do work, later reshaped by the internet, 
+repurposed for entertainment, social networks and advertising. They were not built based on the way we live 
+our lives or how we interact with people and the world around us.
 </p>
 
-<p>We're reimagining an OS from the ground up. Geared towards multiplayer first experiences through messaging
-and voice rather than single user mode point and click. Driven by values, not exploitive consumerism.
+<p>We're reimagining an operating system from the ground up. Geared towards community first experiences, through messaging
+and voice, rather than single user point and click. Driven by our shared values, not exploitive consumerism.
 </p>
 
 <p>The outcome is to define the building blocks of a new operating system for the real world and launch an open services network
@@ -24,8 +24,8 @@ which anyone can participate in, contribute to or benefit from.
 <h2>Introduction</h2>
 <p>
 The world is moving towards being driven entirely by technology, shifting our experiences to digital rather than 
-physical, where everything is a service. In this new world, we believe there needs to be a model for development and system of interaction for 
-these services.
+physical, where everything is a service. In this new world, we believe there needs to be a model of interaction and system for
+development for these services.
 </p>
 <p>
 In our current world, the global tech incumbents rule our lives.
