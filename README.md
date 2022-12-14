@@ -1,3 +1,3 @@
-# website
+# mu.xyz
 
-Placeholder for main website [mu.xyz](https://mu.xyz).
+The website [mu.xyz](https://mu.xyz).
