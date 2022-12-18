@@ -76,7 +76,7 @@ and development, we can build an open general AI not governed by the tech incumb
 <div id="blurb">
 <h2>Architecture</h2>
   <p>
-  Mu is based on the open source platform <a href="https://micro.dev">Micro</a>.
+  Mu is powered by the open source platform <a href="https://micro.dev">Micro</a>.
   </p>
   <p>Learn more about the OS and Micro</p>
 
