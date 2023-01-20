@@ -91,7 +91,7 @@ and development, we can build an open general AI not governed by the tech incumb
 <div id="blurb">
 <h2>Governance</h2>
 <p>
-The Mu system and network will be governed by a member based 
+The Mu operating system and network will be governed by a member based 
 community interest company. It will allow members to come and go
 but maintain a cohesive structure for the long term. This in 
 contrast to a share based organisation that ultimately has to 
