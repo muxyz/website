@@ -117,10 +117,10 @@ the move or at home and so Mu should be with you then.
 <h2>Funding</h2>
 <p>
 We plan to take a crowdfunding approach for Mu to be squarely aligned with the community 
-and initial adopters. As keeping with the governance plans, initial large donations may 
+and initial adopters. As keeping with the governance plans, initially large donations may 
 be used as a path to membership like many other foundations. 
 </p>
-<p>Funding plans will be announced in 2023.</p>
+<p>Funding plans will be announced soon.</p>
 </div>
 
 <div id="blurb">
