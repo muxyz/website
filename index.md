@@ -98,6 +98,9 @@ but maintain a cohesive structure for the long term. This in
 contrast to a share based organisation that ultimately has to 
 achieve some form of liquidity shareholders.
 </p>
+<p>
+Mu will operate much like the Linux or Apache foundation.
+</p>
 </div>
 
 <div id="blurb">
@@ -108,6 +111,16 @@ run on laptops or cloud based computers but over time we imagine a small device
 that stays with you or lives in your home. The vast majority of time we're either on 
 the move or at home and so Mu should be with you then.
 </p>
+</div>
+
+<div id="blurb">
+<h2>Funding</h2>
+<p>
+We plan to take a crowdfunding approach for Mu to be squarely aligned with the community 
+and initial adopters. As keeping with the governance plans, initial large donations may 
+be used as a path to membership like many other foundations. 
+</p>
+<p>Funding plans will be announced in 2023.</p>
 </div>
 
 <div id="blurb">
