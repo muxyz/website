@@ -64,12 +64,12 @@ At a certain point we do not want to command systems but instead have our needs 
 Intelligence is an emergent property in the universe and the creation of such a system is no different.
 </p>
 <p>
-The singularity is not something that can just be manifest from nothing. It requires immense power, research and development, 
-which only the likes of Google are capable of doing.
+AGI (artificial general intelligence) is not something that can just be manifest from nothing. It requires immense power, 
+research and development, which only the likes of Google are capable of doing. 
 </p>
 <p>
-There is an opportunity for us to build the next system of intelligence using an emergent model. Crowdsourcing our own power
-and development, we can build an open general AI not governed by the tech incumbents.
+We have the opportunity to build the next system of intelligence using an emergent model. Crowdsourcing our own power
+and development, we can create an open AGI not governed by the tech incumbents.
 </p>
 </div>
 
