@@ -86,6 +86,7 @@ and development, we can build an open general AI not governed by the tech incumb
     <li>L3 <a href="/network">Network</a></li>
     <li>L4 <a href="/interface">Interface</a></li>
   </ul>
+  <p>&nbsp;</p>
 </div>
 
 <div id="blurb">
