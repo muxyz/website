@@ -89,16 +89,6 @@ and development, we can build an open general AI not governed by the tech incumb
 </div>
 
 <div id="blurb">
-<h2>Implementation</h2>
-<p>
-Mu as a piece of software will need to be combined with hardware. Initially this may be 
-run on laptops or cloud based computers but over time we imagine a piece of hardware 
-that stays with you or lives in your home. The vast majority of time we're either on 
-the move or at home and so Mu should be with you then.
-</p>
-</div>
-
-<div id="blurb">
 <h2>Governance</h2>
 <p>
 The Mu operating system and network will be governed by a member based 
@@ -106,6 +96,16 @@ community interest company. It will allow members to come and go
 but maintain a cohesive structure for the long term. This in 
 contrast to a share based organisation that ultimately has to 
 achieve some form of liquidity shareholders.
+</p>
+</div>
+
+<div id="blurb">
+<h2>Implementation</h2>
+<p>
+Mu as a piece of software will need to be combined with hardware. Initially this may be 
+run on laptops or cloud based computers but over time we imagine a piece of hardware 
+that stays with you or lives in your home. The vast majority of time we're either on 
+the move or at home and so Mu should be with you then.
 </p>
 </div>
 
