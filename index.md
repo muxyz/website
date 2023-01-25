@@ -7,8 +7,8 @@ asim@micro.mu<br>
 <div id="blurb">
 <h2>Abstract</h2>
 <p>Today's platforms were created for humans to do work and complete tasks. Later reshaped by the internet, 
-repurposed for entertainment, social networks and advertising. They were not built based on the way we live 
-our lives or how we interact with people and the world around us.
+repurposed for entertainment, social networks and advertising. They were not built based on how we live 
+our lives or the way we interact with people and the world around us.
 </p>
 
 <p>We're reimagining an operating system from the ground up. Geared towards community first experiences, through messaging
