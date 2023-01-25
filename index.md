@@ -99,7 +99,7 @@ contrast to a share based organisation that ultimately has to
 achieve some form of liquidity shareholders.
 </p>
 <p>
-Mu will operate much like the Linux or Apache foundation.
+Mu will operate much like the Linux foundation.
 </p>
 </div>
 
