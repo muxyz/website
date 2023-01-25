@@ -12,7 +12,7 @@ our lives or how we interact with people and the world around us.
 </p>
 
 <p>We're reimagining an operating system from the ground up. Geared towards community first experiences, through messaging
-and voice, rather than single user point and click. Driven by our shared values, not exploitive consumerism.
+and voice, rather than scroll, point and click. Driven by our shared values, not exploitive and addictive consumerism.
 </p>
 
 <p>The outcome is to define the building blocks of a new operating system for the real world and launch an open services network
