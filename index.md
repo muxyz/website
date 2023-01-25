@@ -104,7 +104,7 @@ Mu will operate much like the Linux foundation.
 </div>
 
 <div id="blurb">
-<h2>Implementation</h2>
+<h2>Hardware</h2>
 <p>
 Mu as a piece of software will need to be combined with hardware. Initially this may be 
 run on laptops or cloud based computers but over time we imagine a small device
