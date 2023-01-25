@@ -93,8 +93,8 @@ and development, we can create an open AGI not governed by the tech incumbents.
 <h2>Governance</h2>
 <p>
 The Mu operating system and network will be governed by a member based 
-community interest company. It will allow members to come and go
-but maintain a cohesive structure for the long term. This in 
+community interest company (CIC), which will allow members to come and go
+over time but maintain a cohesive structure for the long term. This in 
 contrast to a share based organisation that ultimately has to 
 achieve some form of liquidity shareholders.
 </p>
