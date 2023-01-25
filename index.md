@@ -30,7 +30,7 @@ development.
 <p>
 The global tech incumbents rule our lives.
 Benefitting from exploiting our actions and delivering addictive services that are impossible to break free of. We have the chance to 
-build a new system which removes these exploits and creates a more free, transparent and open services economy.
+build a new system which removes these exploits and creates a more free, transparent and open economy.
 </p>
 <p>
 If successful, Mu will be the foundation for this open, value based, alternative to the existing services and systems 
