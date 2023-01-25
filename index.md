@@ -24,8 +24,8 @@ which anyone can participate in, contribute to or benefit from.
 <h2>Introduction</h2>
 <p>
 The world is moving towards being driven entirely by technology, shifting our experiences to digital rather than 
-physical, where everything is a service. In this new world, we believe there needs to be a model of interaction and system for
-development for these services.
+physical, where everything is a service. In this new world, we believe there needs to be a model of interaction and system of
+development.
 </p>
 <p>
 In our current world, the global tech incumbents rule our lives.
