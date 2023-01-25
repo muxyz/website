@@ -29,7 +29,7 @@ development.
 </p>
 <p>
 In our current world, the global tech incumbents rule our lives.
-They benefit from exploiting our actions and deliver addictive services that are impossible to break free from. We have the chance to 
+Benefitting from exploiting our actions and delivering addictive services that are impossible to break free of. We have the chance to 
 build a new system which removes these exploits and creates a more free, transparent and open services economy.
 </p>
 <p>
