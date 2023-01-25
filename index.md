@@ -15,7 +15,7 @@ our lives or how we interact with people and the world around us.
 and voice, rather than scroll, point and click. Driven by our shared values, not exploitive and addictive consumerism.
 </p>
 
-<p>The outcome is to define the building blocks of a new operating system for the real world and launch an open services network
+<p>The outcome is to define a new operating system for the real world and launch an open services network
 which anyone can participate in, contribute to or benefit from.
 </p>
 </div>
