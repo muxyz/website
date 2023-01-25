@@ -118,7 +118,7 @@ the move or at home and so Mu should be with you then.
 <p>
 We plan to take a crowdfunding approach for Mu to be squarely aligned with the community 
 and initial adopters. As keeping with the governance plans, initial donations may 
-be used as a path to membership or early access for testing. 
+be used as a path to membership or early access. 
 </p>
 <p>Funding plans will be announced soon.</p>
 </div>
