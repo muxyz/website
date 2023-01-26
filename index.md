@@ -104,6 +104,17 @@ Mu will operate much like the Linux foundation.
 </div>
 
 <div id="blurb">
+<h2>Ethics</h2>
+<p>
+Who gets to decide how we live our lives or how an AI should behave? Who deems 
+what is right for consumption and what is not? We need an agreed upon code of 
+ethics, morals and values that governs the overall system. To decide what we 
+accept as a service or what is rejected. Part of this will be derived by the 
+initial members and the overall community's belief system. 
+</p>
+</div>
+
+<div id="blurb">
 <h2>Hardware</h2>
 <p>
 Mu as a piece of software will need to be combined with hardware. Initially this may be 
