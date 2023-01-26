@@ -74,19 +74,14 @@ and development, we can create an open AGI not governed by the tech incumbents.
 </div>
 
 <div id="blurb">
-<h2>Architecture</h2>
-  <p>
-  Mu is powered by the open source platform <a href="https://micro.dev">Micro</a>.
-  </p>
-  <p>Learn more about the OS and Micro</p>
-
-  <ul id="projects">
-    <li>L1 <a href="/micro">Micro</a></li>
-    <li>L2 <a href="/services">Services</a></li>
-    <li>L3 <a href="/network">Network</a></li>
-    <li>L4 <a href="/interface">Interface</a></li>
-  </ul>
-  <br>
+<h2>Ethics</h2>
+<p>
+Who gets to decide how we live our lives or how an AI should behave? Who deems 
+what is right for consumption and what is not? We need an agreed upon code of 
+ethics, morals and values that governs the overall system. To decide what we 
+accept as a service or what is rejected. Part of this will be derived by the 
+initial members and the overall community's belief system. 
+</p>
 </div>
 
 <div id="blurb">
@@ -104,14 +99,19 @@ Mu will operate much like the Linux foundation.
 </div>
 
 <div id="blurb">
-<h2>Ethics</h2>
-<p>
-Who gets to decide how we live our lives or how an AI should behave? Who deems 
-what is right for consumption and what is not? We need an agreed upon code of 
-ethics, morals and values that governs the overall system. To decide what we 
-accept as a service or what is rejected. Part of this will be derived by the 
-initial members and the overall community's belief system. 
-</p>
+<h2>Architecture</h2>
+  <p>
+  Mu is powered by the open source platform <a href="https://micro.dev">Micro</a>.
+  </p>
+  <p>Learn more about the OS and Micro</p>
+
+  <ul id="projects">
+    <li>L1 <a href="/micro">Micro</a></li>
+    <li>L2 <a href="/services">Services</a></li>
+    <li>L3 <a href="/network">Network</a></li>
+    <li>L4 <a href="/interface">Interface</a></li>
+  </ul>
+  <br>
 </div>
 
 <div id="blurb">
