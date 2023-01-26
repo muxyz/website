@@ -128,7 +128,6 @@ We plan to take a crowdfunding approach for Mu to be squarely aligned with the c
 and initial adopters. As keeping with the governance plans, initial donations may 
 be used as a path to membership or early access. 
 </p>
-<p>Funding plans will be announced soon.</p>
 </div>
 
 <div id="blurb">
