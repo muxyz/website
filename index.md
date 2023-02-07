@@ -147,6 +147,14 @@ majority will be spent on building the initial team who will deliver the MVP for
 </div>
 
 <div id="blurb">
+<h2>Conclusion</h2>
+Mu is a real world operating system we're proposing, driven by voice and messaging, to replace 
+existing systems that are owned and operated largely by corporations. Our goal is to create an 
+open alternative to existing platforms and services that is community centric and accessible to 
+everyone.
+</div>
+
+<div id="blurb">
 <h2>Learn More</h2>
   <p>
   See <a href="https://mirror.xyz/0x95A522981D68213E6F2190e187d42f9e53EE0873">Mirror</a>,
@@ -157,3 +165,4 @@ majority will be spent on building the initial team who will deliver the MVP for
    <p>Join <a href="https://discord.gg/TBR9bRjd6Z">Discord</a> to discuss further.
   </p>
 </div>
+
