@@ -124,9 +124,13 @@ achieve some form of liquidity shareholders.
 <h2>Infrastructure</h2>
 <p>
 Mu as a piece of software will need to be combined with hardware. Initially this may be 
-run on laptops or cloud based computers but over time we imagine a small device
+run on laptops or cloud infrastructure but over time we imagine a small device
 that stays with you or lives in your home. The vast majority of time we're either on 
 the move or at home and so Mu should be with you then.
+</p>
+<p>The cost to run 
+for Mu should be no more than a monthly subscription for common services like an internet 
+connection.
 </p>
 </div>
 
@@ -136,6 +140,9 @@ the move or at home and so Mu should be with you then.
 We plan to take a crowdfunding approach for Mu to be squarely aligned with the community 
 and initial adopters. As keeping with the governance plans, initial donations may 
 be used as a path to membership or early access. 
+</p>
+<p>It's not yet clear what the cost structure will be for the project  but likely the 
+majority will be spent on building the initial team who will deliver the MVP for the network.
 </p>
 </div>
 
