@@ -46,7 +46,7 @@ we've come to know and rely upon.
 <h2>Economics</h2>
 
 <p>
-Our <a href="/network">Network</a> will create significant financial liquidity for a number of people, however, there is another 
+Our <a href="/network">Network</a> will create significant financial value for it's participants, however, there is another 
 demographic who will not be so privileged. For those people, we want to ensure they are also benefitting from our efforts.
 </p>
 
