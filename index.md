@@ -78,6 +78,26 @@ and development, we can create an open AGI not governed by the tech incumbents.
 </div>
 
 <div id="blurb">
+<h2>Architecture</h2>
+  <p>
+  Mu will be powered by the open source platform <a href="https://micro.dev">Micro</a>. 
+  On top of this, We'll introduce a new interface, app and networking model to service 
+  the end user. Part of this will involve adopting WebAssembly for secure sandboxing.
+  </p>
+  <p>Learn more about the OS and Micro</p>
+
+  <ul id="projects">
+    <li>L1 <a href="/micro">Micro</a></li>
+    <li>L2 <a href="/services">Services</a></li>
+    <li>L3 <a href="/network">Network</a></li>
+    <li>L4 <a href="/interface">Interface</a></li>
+  </ul>
+  <br>
+
+
+</div>
+
+<div id="blurb">
 <h2>Ethics</h2>
 <p>
 Who gets to decide how we live our lives or how an AI should behave? Who deems 
@@ -97,26 +117,6 @@ over time but maintain a cohesive structure for the long term. This is in
 contrast to a share based organisation that ultimately has to 
 achieve some form of liquidity shareholders.
 </p>
-</div>
-
-<div id="blurb">
-<h2>Architecture</h2>
-  <p>
-  Mu will be powered by the open source platform <a href="https://micro.dev">Micro</a>. 
-  On top of this, We'll introduce a new interface, app and networking model to service 
-  the end user. Part of this will involve adopting WebAssembly for secure sandboxing.
-  </p>
-  <p>Learn more about the OS and Micro</p>
-
-  <ul id="projects">
-    <li>L1 <a href="/micro">Micro</a></li>
-    <li>L2 <a href="/services">Services</a></li>
-    <li>L3 <a href="/network">Network</a></li>
-    <li>L4 <a href="/interface">Interface</a></li>
-  </ul>
-  <br>
-
-
 </div>
 
 <div id="blurb">
