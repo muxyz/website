@@ -2,9 +2,8 @@
 permalink: /services
 layout: default
 title: "Services"
+description: "Real world Micro services"
 ---
-
-Real world Micro services
 
 ## Overview
 

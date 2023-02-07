@@ -2,9 +2,9 @@
 permalink: /micro
 layout: default
 title: "Micro"
+description: "API first development platform"
 ---
 
-API first development platform
 
 ## Overview
 

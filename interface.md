@@ -2,9 +2,9 @@
 permalink: /interface
 layout: default
 title: "Interface"
+description: "Human computer language interface"
 ---
 
-Human computer language interface
 
 ## Overview
 

@@ -2,9 +2,9 @@
 permalink: /network
 layout: default
 title: "Network"
+description: "A protocol for Micro services"
 ---
 
-A protocol for Micro services
 
 ## Overview
 

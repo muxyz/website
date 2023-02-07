@@ -2,8 +2,12 @@
 layout: default
 title: "Mu: An Operating System for Life"
 ---
+<center>
 Asim Aslam<br>
 asim@micro.mu<br>
+mu.xyz<br>
+</center>
+<br>
 <div id="blurb">
 <h2>Abstract</h2>
 <p>Today's platforms were created for humans to do work and complete tasks. Later reshaped by the internet, 
@@ -111,6 +115,8 @@ achieve some form of liquidity shareholders.
     <li>L4 <a href="/interface">Interface</a></li>
   </ul>
   <br>
+
+
 </div>
 
 <div id="blurb">
@@ -140,5 +146,6 @@ be used as a path to membership or early access.
   or
   <a href="https://github.com/muxyz">Github</a> for more info.
   </p>
+   <p>Join <a href="https://discord.gg/TBR9bRjd6Z">Discord</a> to discuss further.
+  </p>
 </div>
-
