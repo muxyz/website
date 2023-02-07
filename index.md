@@ -15,12 +15,12 @@ repurposed for entertainment, social networks and advertising. They were not bui
 our lives or the way we interact with people and the world around us.
 </p>
 
-<p>We're reimagining an operating system from the ground up. Geared towards community first experiences, through messaging
+<p>We're proposing an new operating system built from the ground up. Geared towards community first experiences, through messaging
 and voice, rather than scroll, point and click. Driven by our shared values, not exploitive and addictive consumerism.
 </p>
 
-<p>The outcome is to define a new real world OS and launch an open services network
-which anyone can participate in, contribute to or benefit from.
+<p>The outcome is to create a real world OS made for humans and launch an open network of services 
+which anyone can use, contribute to or benefit from financially.
 </p>
 </div>
 
