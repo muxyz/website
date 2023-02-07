@@ -8,7 +8,7 @@ asim@micro.mu<br>
 mu.xyz<br>
 </center>
 <br>
-<div id="blurb">
+<div id="abstract">
 <h2>Abstract</h2>
 <p>Today's platforms were created for humans to do work and complete tasks. Later reshaped by the internet, 
 repurposed for entertainment, social networks and advertising. They were not built based on how we live 
