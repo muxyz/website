@@ -15,8 +15,8 @@ repurposed for entertainment, social networks and advertising. They were not bui
 our lives or the way we interact with people and the world around us.
 </p>
 
-<p>We're proposing a new operating system built from the ground up. Geared towards community first experiences, through messaging
-and voice, rather than scroll, point and click. Driven by our shared values, not exploitive and addictive consumerism.
+<p>We're proposing a new operating system built from the ground up. Geared towards community first experiences using messaging
+voice and video, rather than scroll, point and click. Driven by our shared values, not exploitive and addictive consumerism.
 </p>
 
 <p>The outcome is to create a real world OS made for humans and launch an open network of services 
