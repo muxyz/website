@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Mu: An Operating System for Life"
+title: "Mu: A cloud based operating system"
 ---
 <center>
 Asim Aslam<br>
