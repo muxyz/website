@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Mu: A cloud based operating system"
+title: "Mu"
+description: "A cloud based operating system"
 ---
 <center>
 Asim Aslam<br>
