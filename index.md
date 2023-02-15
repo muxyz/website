@@ -16,3 +16,11 @@ open source. That hasn't turned out as we expected. There's a need
 to start a new ecosystem that provides an open alternative 
 to the closed systems of today.
 </div>
+
+<div id="blurb">
+  <p>
+  To learn more see <a href="https://github.com/muxyz">Github</a>,
+  <a href="https://discord.gg/TBR9bRjd6Z">Discord</a> or
+  <a href="https://twitter.com/mudotxyz">Twitter</a>.
+  </p>
+</div>
