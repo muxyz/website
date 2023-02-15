@@ -109,12 +109,10 @@
           </a></h1>
       </div>
       <div id="container">
-        {% if page.title and page.title != site.title %}
-          <h1 id="title">{{ page.title }}</h1>
-	  {% if page.description %}
-	  <p id="description">{{ page.description }}</p>
-	  {% endif %}
-        {% endif %}
+        <h1 id="title">{{ page.title }}</h1>
+	{% if page.description %}
+	<p id="description">{{ page.description }}</p>
+	{% endif %}
         {{ content }}
       </div>
       <div id="footer">&nbsp;
