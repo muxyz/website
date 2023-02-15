@@ -17,7 +17,7 @@ to start a new ecosystem that provides an open alternative
 to the closed systems of today.
 </div>
 
-<div id="blurb">
+<div id="abstract">
   <p>
   To learn more see <a href="https://github.com/muxyz">Github</a>,
   <a href="https://discord.gg/TBR9bRjd6Z">Discord</a> or
