@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mu
+title: "Mu"
 description: "A cloud based operating system"
 ---
 <br>
