@@ -2,7 +2,7 @@
 layout: default
 title: "Mu: A cloud based operating system"
 ---
-
+<br>
 <div id="abstract">
 Mu is a new cloud based operating system.
 It's built to address many of the problems we 
