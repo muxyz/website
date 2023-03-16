@@ -12,12 +12,12 @@ mobile side and cloud infrastructure. Browsers were meant to solve a lot of thes
 problems along with open source. That hasn't turned out to be the case. There's a need
 to start from the ground up and build a new ecosystem that provides an open alternative
 to the closed systems of today.
-
 </div>
-<br>
 <div id="abstract">
   <p style="text-align: center;">
-    Join
-    <a href="https://discord.gg/TBR9bRjd6Z">Discord</a>&nbsp;to learn more.
+    We'll have more to share soon.
+    <br><br>
+    Join us on
+    <a href="https://discord.gg/TBR9bRjd6Z">Discord</a>.
   </p>
 </div>
