@@ -102,10 +102,12 @@
       <div id="header">
         <h1>
          <a href="/">
-           {% if site.logo %}
-             <img src="{{ site.logo }}" style="height: 50px; width: auto;" >
-           {% else %}
-             {{site.title}}
+           {% if site.title and site.title != page.title %}
+             {% if site.logo %}
+               <img src="{{ site.logo }}" style="height: 50px; width: auto;" >
+             {% else %}
+               {{site.title}}
+             {% endif %}
            {% endif %}
           </a></h1>
       </div>
