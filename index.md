@@ -19,7 +19,7 @@ to the closed systems of today.
 <br>
 <div id="abstract">
   <p style="text-align: center;">
-    Join&nbsp;
+    Join
     <a href="https://discord.gg/TBR9bRjd6Z">Discord</a>&nbsp;to learn more.
   </p>
 </div>
