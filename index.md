@@ -1,11 +1,11 @@
 ---
 layout: default
 title: "Mu"
-description: "A cloud based operating system"
+description: "Human computer interface"
 ---
 <br>
 <div id="abstract">
-Mu is a new operating system built to address many of the problems we 
+Mu is a new human computer interface built to address many of the problems we 
 face with the web today. The internet has become a walled garden largely because 
 of the app ecosystem and incumbent gravitational forces. This plays out both on the 
 mobile side and cloud infrastructure too. Browsers were meant to solve a lot of these
