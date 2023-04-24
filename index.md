@@ -14,6 +14,7 @@ to start from the ground up and build a new system that provides an open alterna
 to the closed systems of today.
 </div>
 <div id="abstract">
+  <br>
   <p style="text-align: center;">
     We'll have more to share soon.
   </p>
