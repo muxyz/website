@@ -16,8 +16,5 @@ to the closed systems of today.
 <div id="abstract">
   <p style="text-align: center;">
     We'll have more to share soon.
-    <br><br>
-    Join us on
-    <a href="https://discord.gg/TBR9bRjd6Z">Discord</a>.
   </p>
 </div>
