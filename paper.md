@@ -58,7 +58,7 @@ demographic who will not be so privileged. For those people, we want to ensure t
 
 <p>
 No system of benefit should be created without taking the least privileged into consideration. We will ensure what's 
-built is not just benefiting the 1% but making a difference to all.
+built is not just benefiting the 1%.
 </p>
 </div>
 
