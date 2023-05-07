@@ -83,9 +83,9 @@ and development, we can create an open AGI not governed by the tech incumbents.
   <p>
   Mu will be powered by the open source platform <a href="https://micro.dev">Micro</a>. 
   On top of this, We'll introduce a new interface, app and networking model to service 
-  the end user. Part of this will involve adopting WebAssembly for secure sandboxing.
+  the end user.
   </p>
-  <p>Learn more about the OS and Micro</p>
+  <p>Learn more</p>
 
   <ul id="projects">
     <li>L1 <a href="/micro">Micro</a></li>
