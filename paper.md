@@ -19,8 +19,8 @@ lives, interact with people or the world around us.
 <p>We're proposing a new platform built from the ground up, geared towards community first experiences using messaging and voice, rather than point and click. Driven by our shared values, not exploitive consumerism.
 </p>
 
-<p>The outcome is to create a real world platform made for humans and launch an open network of services 
-which anyone can use, contribute tobenefit from financially.
+<p>The goal is to create a real world community platform and launch an open network of services 
+which anyone can make use of or contribute to.
 </p>
 </div>
 
