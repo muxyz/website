@@ -16,7 +16,7 @@ repurposed for entertainment, social networks and advertising. They were not bui
 our lives or the way we interact with people and the world around us.
 </p>
 
-<p>We're proposing a new platform built from the ground up, geared towards community first experiences using messaging and voice, rather than scroll, point and click. Driven by our shared values, not exploitive and addictive consumerism.
+<p>We're proposing a new platform built from the ground up, geared towards community first experiences using messaging and voice, rather than point and click. Driven by our shared values, not exploitive and addictive consumerism.
 </p>
 
 <p>The outcome is to create a real world platform made for humans and launch an open network of services 
