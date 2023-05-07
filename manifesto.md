@@ -125,12 +125,10 @@ achieve some form of liquidity shareholders.
 <h2>Infrastructure</h2>
 <p>
 Mu as a piece of software will need to be combined with hardware. Initially this may be 
-run on laptops or cloud infrastructure but over time we imagine a small device
-that stays with you or lives in your home. The vast majority of time we're either on 
-the move or at home and so Mu should be with you then.
+run on a laptop or cloud infrastructure.
 </p>
 <p>The cost to run 
-for Mu should be no more than a monthly subscription for common services like an internet 
+Mu should be no more than a monthly subscription for common services like an internet 
 connection.
 </p>
 </div>
@@ -149,10 +147,9 @@ majority will be spent on building the initial team who will deliver the MVP for
 
 <div id="blurb">
 <h2>Conclusion</h2>
-Mu is a real world operating system we're proposing, driven by voice, video and messaging, to replace 
-existing systems that are owned and operated largely by corporations. Our goal is to create an 
-open alternative to existing platforms and services that is community centric and accessible to 
-everyone.
+Mu is a real world community platform we're proposing, driven by messaging and  voice. Our goal is to create an 
+open alternative to existing platforms that is community driven and accessible to 
+all.
 </div>
 
 <div id="blurb">
