@@ -157,12 +157,7 @@ everyone.
 
 <div id="blurb">
 <h2>Learn More</h2>
-  <p>
-  See <a href="https://mirror.xyz/0x95A522981D68213E6F2190e187d42f9e53EE0873">Mirror</a>,
-  <a href="https://twitter.com/mudotxyz">Twitter</a>
-  or
-  <a href="https://github.com/muxyz">Github</a> for more info.
-  </p>
+
    <p>Join <a href="https://discord.gg/TBR9bRjd6Z">Discord</a> to discuss further.
   </p>
 </div>
