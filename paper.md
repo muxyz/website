@@ -113,7 +113,7 @@ initial members and the overall community's belief system.
 <div id="blurb">
 <h2>Governance</h2>
 <p>
-The Mu operating system and network will be governed by a member based 
+The Mu platform and network will be governed by a member based 
 community interest company (CIC). This will allow members to come and go
 over time but maintain a cohesive structure for the long term. This is in 
 contrast to a share based organisation that ultimately has to 
