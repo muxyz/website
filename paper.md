@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Mu"
-description: "A community firsf platform"
+description: "A community first platform"
 ---
 <center>
 Asim Aslam<br>
