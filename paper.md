@@ -11,8 +11,8 @@ mu.xyz<br>
 <br>
 <div id="abstract">
 <h2>Abstract</h2>
-<p>Today's platforms were created for work. Later reshaped by the internet, 
-repurposed for entertainment, social networks and advertising. They were not built based on how we live 
+<p>Today's platforms were created for work. Later reshaped by the internet
+for entertainment, social networks and advertising. They were not built based on how we live 
 our lives or the way we interact with people and the world around us.
 </p>
 
@@ -20,7 +20,7 @@ our lives or the way we interact with people and the world around us.
 </p>
 
 <p>The outcome is to create a real world platform made for humans and launch an open network of services 
-which anyone can use, contribute to or benefit from financially.
+which anyone can use, contribute tobenefit from financially.
 </p>
 </div>
 
