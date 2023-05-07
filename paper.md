@@ -33,8 +33,10 @@ development.
 </p>
 <p>
 The global tech incumbents rule our lives.
-Benefitting from exploiting our actions and delivering addictive services that are impossible to break free of. We have the chance to 
-build a new system which removes these exploits and creates a more free, transparent and open economy.
+Exploiting our actions and delivering addictive services that are impossible to break free from.
+We
+have the opportunity to 
+build a new system which removes these exploits and creates a more free, transparent and open world.
 </p>
 <p>
 If successful, Mu will be the foundation for this open, value based, alternative to the existing services and systems 
@@ -43,21 +45,20 @@ we've come to know and rely upon.
 </div>
 
 <div id="blurb">
-<h2>Economics</h2>
+<h2>Finance</h2>
 
 <p>
-Our <a href="/network">Network</a> will create significant financial value for it's participants, however, there is another 
+Our <a href="/network">Network</a> will create significant value for it's participants, however there is another 
 demographic who will not be so privileged. For those people, we want to ensure they are also benefitting from our efforts.
 </p>
 
 <p>
-2.5% of token holdings in the network will be redistributed yearly to the least privileged by way of charitable donation. 
-It will be a wealth tax applied to all.
+2.5% of cash holdings in the network will be redistributed yearly to the least privileged by way of charitable donation.
 </p>
 
 <p>
-No system that benefits mankind should be created without taking the least privileged into consideration. We will ensure what's 
-built is not just benefiting the 1% but making a difference to all through conscious effort.
+No system of benefit should be created without taking the least privileged into consideration. We will ensure what's 
+built is not just benefiting the 1% but making a difference to all.
 </p>
 </div>
 
