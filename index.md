@@ -16,6 +16,6 @@ to the closed systems of today.
 <div id="abstract">
   <br>
   <p style="text-align: center;">
-    We'll have more to share soon.
+    Read the <a href="/manifesto">manifesto</a>.
   </p>
 </div>
