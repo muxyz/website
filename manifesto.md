@@ -136,8 +136,8 @@ connection.
 <div id="blurb">
 <h2>Funding</h2>
 <p>
-We plan to take a crowdfunding approach for Mu to be squarely aligned with the community 
-and initial adopters. As keeping with the governance plans, initial donations may 
+We plan to use crowdfunding approach so we're completely aligned with the community 
+and early adopters. As keeping with the governance plans, initial donations may 
 be used as a path to membership or early access. 
 </p>
 <p>It's not yet clear what the cost structure will be for the project  but likely the 
