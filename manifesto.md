@@ -95,8 +95,8 @@ and development, we can create an open AGI not governed by the tech incumbents.
   </ul>
   <br>
 
-  See the <a href="https://github.com/muxyz/mu">source</a> for the interface 
-  and the <a href="https://github.com/micro">Micro</a> platform.
+  Checkout the source for
+<a href="https://github.com/micro">Micro</a> on GitHub.
 </div>
 
 <div id="blurb">
