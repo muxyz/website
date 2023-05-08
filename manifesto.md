@@ -136,7 +136,7 @@ connection.
 <div id="blurb">
 <h2>Funding</h2>
 <p>
-We plan to use crowdfunding approach so we're completely aligned with the community 
+We plan to use crowdfunding to bootstrap the project to align with the community 
 and early adopters. As keeping with the governance plans, initial donations may 
 be used as a path to membership or early access. 
 </p>
