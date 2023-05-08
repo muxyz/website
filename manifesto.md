@@ -102,7 +102,7 @@ and development, we can create an open AGI not governed by the tech incumbents.
 <div id="blurb">
 <h2>Values</h2>
 <p>
-Who gets to decide how we live our lives or how an AI should behave? Who deems 
+Who gets to decide how we live our lives or how we interact with technology? Who deems 
 what is right for consumption and what is not? We need an agreed upon code of 
 ethics, morals and values that governs the overall system. To decide what we 
 accept as a service or what is rejected. Part of this will be derived by the 
