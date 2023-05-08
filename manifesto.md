@@ -81,7 +81,7 @@ and development, we can create an open AGI not governed by the tech incumbents.
 <div id="blurb">
 <h2>Architecture</h2>
   <p>
-  Mu will be powered by the open source platform <a href="https://micro.dev">Micro</a>. 
+  Mu will be powered by the open source project <a href="https://micro.dev">Micro</a>. 
   On top of this, We'll introduce a new interface, app and networking model to service 
   the end user.
   </p>
