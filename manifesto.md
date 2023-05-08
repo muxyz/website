@@ -39,7 +39,7 @@ have the opportunity to
 build a new system which removes these exploits and creates a more free, transparent and open world.
 </p>
 <p>
-If successful, Mu will be the foundation for this open, value based, alternative to the existing services and systems 
+If successful, Mu will be the foundation for this new open, value based, alternative to the existing services and systems 
 we've come to know and rely upon.
 </p>
 </div>
@@ -48,7 +48,7 @@ we've come to know and rely upon.
 <h2>Finance</h2>
 
 <p>
-Our <a href="/network">Network</a> will create significant value for it's participants, however there is another 
+Our Network will create significant value for it's participants, however there is another 
 demographic who will not be so privileged. For those people, we want to ensure they are also benefitting from our efforts.
 </p>
 
