@@ -9,8 +9,8 @@ asim@micro.mu<br>
 mu.xyz<br>
 </center>
 <br>
-<div id="abstract">
-<h2>Abstract</h2>
+<div id="blurb">
+<h2>Background</h2>
 <p>Today's platforms were created for work. Later reshaped by the internet
 for entertainment, social networks and advertising. They were not built based on how we live our
 lives, interact with people or the world around us.
