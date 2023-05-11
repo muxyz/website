@@ -10,7 +10,7 @@ mu.xyz<br>
 </center>
 <br>
 <div id="blurb">
-<h2>Background</h2>
+<h2>Introduction</h2>
 <p>Today's platforms were created for work. Later reshaped by the internet
 for entertainment, social networks and advertising. They were not built based on how we live our
 lives or interact with people and the world around us.
@@ -25,7 +25,7 @@ which anyone can make use of or contribute to.
 </div>
 
 <div id="blurb">
-<h2>Introduction</h2>
+<h2>Rationale</h2>
 <p>
 The world is moving towards being driven entirely by technology, shifting our experiences to digital rather than 
 physical, where everything is a service. In this new world, we believe there needs to be a model of interaction and system for
