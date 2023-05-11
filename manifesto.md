@@ -13,7 +13,7 @@ mu.xyz<br>
 <h2>Background</h2>
 <p>Today's platforms were created for work. Later reshaped by the internet
 for entertainment, social networks and advertising. They were not built based on how we live our
-lives, interact with people or the world around us.
+lives or interact with people and the world around us.
 </p>
 
 <p>We're proposing a new platform built from the ground up, geared towards community first experiences using messaging and voice, rather than point and click. Driven by our shared values, not exploitive consumerism.
