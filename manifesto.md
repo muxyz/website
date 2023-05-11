@@ -16,7 +16,8 @@ for entertainment, social networks and advertising. They were not built based on
 lives or interact with people and the world around us.
 </p>
 
-<p>We're proposing a new platform built from the ground up based around community first experience using a text messaging and voice interface rather than addictive feed scrolling.
+<p>We're proposing a new platform built from the ground up based around community first experience using text messaging and voice interfaces rather than endless addictive feed scrolling.
+
 </p>
 
 <p>The goal is to create a real world community platform and launch an open network of services 
