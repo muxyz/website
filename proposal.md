@@ -60,7 +60,7 @@ A demo chat app can be viewed at <a href="https://micro.mu">Micro.mu</a>.
   On top of this, We'll introduce a new app, interface and networking model to service 
   the end user.
   </p>
-  <p>Learn more</p>
+  <p>Learn more about the project</p>
 
   <ul id="projects">
     <li>L1 <a href="/micro">Micro</a></li>
