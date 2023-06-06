@@ -89,7 +89,8 @@ the initial members of the community.
 <h2>Governance</h2>
 <p>
 The Mu platform and network will be governed by a member based 
-community interest company (CIC). This will allow members to come and go
+community interest company (<a href="https://en.wikipedia.org/wiki/Community_interest_company">CIC</a>).
+This will allow members to come and go
 over time but maintain a cohesive structure for the long term. This is in 
 contrast to a share based organisation that ultimately has to 
 achieve some form of liquidity shareholders.
