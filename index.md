@@ -5,13 +5,18 @@ description: "Human computer interface"
 ---
 <br>
 <div id="abstract">
-Mu is a new human computer interface built to address many of the problems we 
-face with the web today. The internet has become a walled garden largely because 
-of the app ecosystem and incumbent gravitational forces. This plays out both on
-mobile and cloud too. Open source was meant to solve these issues but
-that hasn't turned out to be the case. There's a need
+Mu is a new consumer app platform built to address many of the problems we 
+face with the web today. The internet has become an addictive and explotative walled garden because 
+of the app ecosystem and tech incumbent profit motivations.
+
+<p>Open source was meant to solve these issues but
+that hasn't played out to the way we hoped. There's a need
 to start from the ground up and build a new system that provides an open alternative
-to the closed systems of today.
+to the existing systems we have today.</p>
+<p>
+We propose a new community first app platform starting with Chat, which focuses
+on the needs of people, not profits.
+</p>
 </div>
 <div id="abstract">
   <br>

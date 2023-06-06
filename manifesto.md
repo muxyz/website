@@ -11,17 +11,13 @@ mu.xyz<br>
 <br>
 <div id="blurb">
 <h2>Introduction</h2>
-<p>Today's platforms were created for work. Later reshaped by the internet
+<p>Today's computing platforms were created for work. Later reshaped by the internet
 for entertainment, social networks and advertising. They were not built based on how we live our
-lives or interact with people and the world around us.
+lives or the way we interact with people and the world around us.
 </p>
 
-<p>We're proposing a new platform built from the ground up based around community first experience using text messaging and voice interfaces rather than endless addictive feed scrolling.
-
-</p>
-
-<p>The goal is to create a real world community platform and launch an open network of services 
-which anyone can make use of or contribute to.
+<p>We're proposing a new consumer app platform built from the ground up based around community first experiences 
+using text based messaging and voice interfaces rather than addictive feed scrolling and point and click UIs.
 </p>
 </div>
 
@@ -35,25 +31,26 @@ have the opportunity to
 build a new system which removes these exploits and creates a more free, transparent and open world.
 </p>
 <p>
-If successful, Mu will be the foundation for this new open, value based, alternative to the existing services and systems 
+If successful, Mu will be the foundation for this new open, community based, alternative to the existing services and systems 
 we've come to know and rely upon.
 </p>
 </div>
 
 <div id="blurb">
-<h2>Charity</h2>
+<h2>Services</h2>
 
-<p>Our platform will include a marketplace or transaction system which will benefit it's members but there are others 
-without access who we do not want to leave behind</p> 
+<p>Mu will include a set of standalone apps starting with Chat. Later we'll move towards creating a
+marketplace and transaction system which will enable people to pay for and access everyday services
+in a simple and straight forward manner.
+</p> 
 <p>
-2.5% of asset holdings in the network will be redistributed yearly to the least privileged by way of charitable donation.
+Community starts with people, hence our focus on Chat to start. By creating 
+a safe and engaging place for communities we can build the foundations for an open and collaborative 
+platform in the future.
 </p>
-
 <p>
-No system of benefit should be created without taking the least privileged into consideration. We will ensure what's 
-built is not just benefiting the 1%.
+A demo chat app can be viewed at <a href="https://micro.mu">Micro.mu</a>.
 </p>
-
 </div>
 
 <div id="blurb">
@@ -84,7 +81,7 @@ Who gets to decide how we live our lives or how we interact with technology? Who
 what is right for consumption and what is not? We need an agreed upon code of 
 ethics, morals and values that governs the overall system. To decide what we 
 accept as a service or what is rejected. Part of this will be derived by
-the community's belief system. 
+the initial members of the community.
 </p>
 </div>
 
@@ -102,16 +99,15 @@ achieve some form of liquidity shareholders.
 <div id="blurb">
 <h2>Funding</h2>
 <p>
-We plan to use crowdfunding to bootstrap the project to align with the community 
-and early adopters. As keeping with the governance plans, initial donations may 
-be used as a path to membership or early access. 
+We plan to crowdfund for the initial project bootstrapping to align with the community 
+and early members. As keeping with the governance plans, donations will
+be used give first users access.
 </p>
 </div>
 
 <div id="blurb">
 <h2>Conclusion</h2>
-Mu is a new real world community platform we're proposing, driven by messaging and  voice. Our goal is to create an 
-open alternative to existing platforms that is community driven and accessible to 
-all.
+Mu is a new consumer app platform we're proposing, driven by messaging and  voice. Our goal is to create an 
+open alternative to existing platforms that is community driven and free from exploitation.
 </div>
 
