@@ -6,7 +6,7 @@ description: "Human computer interface"
 <center>Community app platform</center>
 <br>
 <div id="abstract">
-Mu is a new consumer app platform built to address many of the problems we 
+Mu is a new community app platform built to address many of the problems we 
 face with the web today. The internet has become an addictive and explotative walled garden because 
 of the app ecosystem and tech incumbent profit motivations.
 
