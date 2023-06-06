@@ -108,7 +108,7 @@ be used give first users access.
 
 <div id="blurb">
 <h2>Conclusion</h2>
-Mu is a new community app platform we're proposing, driven by messaging and  voice. Our goal is to create an 
+Mu is a new community first app platform we're proposing, driven by messaging and  voice. Our goal is to create an 
 open alternative to existing platforms that is community driven and free from exploitation.
 </div>
 
