@@ -16,7 +16,7 @@ for entertainment, social networks and advertising. They were not built based on
 lives or the way we interact with people and the world around us.
 </p>
 
-<p>We're proposing a new consumer app platform built from the ground up based around community first experiences 
+<p>We're proposing a new community app platform built from the ground up based around group first experiences 
 using text based messaging and voice interfaces rather than addictive feed scrolling and point and click UIs.
 </p>
 </div>
@@ -107,7 +107,7 @@ be used give first users access.
 
 <div id="blurb">
 <h2>Conclusion</h2>
-Mu is a new consumer app platform we're proposing, driven by messaging and  voice. Our goal is to create an 
+Mu is a new community app platform we're proposing, driven by messaging and  voice. Our goal is to create an 
 open alternative to existing platforms that is community driven and free from exploitation.
 </div>
 
