@@ -107,18 +107,6 @@ achieve some form of liquidity shareholders.
 </div>
 
 <div id="blurb">
-<h2>Infrastructure</h2>
-<p>
-Mu as a piece of software will need to be combined with hardware. Initially this may be 
-run on a laptop or cloud infrastructure.
-</p>
-<p>The cost to run 
-Mu should be no more than a monthly subscription for common services like an internet 
-connection.
-</p>
-</div>
-
-<div id="blurb">
 <h2>Funding</h2>
 <p>
 We plan to use crowdfunding to bootstrap the project to align with the community 
