@@ -16,8 +16,6 @@ and from the external world through the Micro API. All services are built as ope
 Services available thus far:
 
 - address - Address lookup by postcode
-- analytics - Track and retrieve events
-- answer - Instant answers to any question
 - app - Serverless app deployment
 - avatar - Generate an avatar
 - bitcoin - Bitcoin price and transaction info
@@ -32,7 +30,6 @@ Services available thus far:
 - db - Serverless postgres database
 - dns - DNS over HTTPS (DoH)
 - email - Send emails in a flash
-- emoji - All the emojis you need 🎉
 - ethereum - Ethereum API explorer
 - evchargers - Find electric vehicle (EV) chargers wherever you go 
 - event - Event stream processing
@@ -40,26 +37,19 @@ Services available thus far:
 - forex - Foreign exchange (FX) rates
 - function - Serverless lambda functions
 - geocoding - Address geocoding and reverse lookup
-- gifs - Quick and simple GIF search
 - google - Google search service
-- helloworld - Just saying hello world
 - holidays - Find the holidays observed in a particular country
 - id - Generate unique IDs (uuid, snowflake, etc)
 - image - Upload, resize, and convert images
 - ip - IP to geolocation lookup
-- joke - Funny Jokes
 - lists - Make a list
 - location - Real time GPS location tracking and search
-- memegen - Generate funny memes
-- minecraft - Minecraft server ping
-- movie - Search for movies
 - mq - PubSub messaging
 - news - Get the latest news
 - nft - Explore NFT Assets
 - notes - Store and retrieve notes
 - otp - One time password generation
 - password - Generate strong passwords
-- ping - Ping any IP
 - place - Search for places
 - postcode - Fast UK postcode lookup
 - prayer - Islamic prayer times
@@ -79,14 +69,9 @@ Services available thus far:
 - thumbnail - Create website thumbnails
 - time - Time, date, and timezone info
 - translate - Language translation service
-- tunnel - Tunnel HTTP requests
-- twitter - Realtime twitter timeline & search
-- url - URL shortening, sharing, and tracking
 - user - Authenticate and manage users
-- vehicle - UK vehicle lookup
 - wallet - Virtual Wallet 
 - weather - Real time weather forecast
-- wordle - Multiplayer wordle
 - youtube - Search for YouTube videos
 
 ## Source

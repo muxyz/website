@@ -3,6 +3,7 @@ layout: default
 title: "Mu"
 description: "Human computer interface"
 ---
+<center>Community app platform</center>
 <br>
 <div id="abstract">
 Mu is a new consumer app platform built to address many of the problems we 
