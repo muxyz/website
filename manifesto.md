@@ -64,22 +64,6 @@ built is not just benefiting the 1%.
 </div>
 
 <div id="blurb">
-<h2>Intelligence</h2>
-<p>
-At a certain point we do not want to command systems but instead have our needs anticipated by something more intelligent.
-Intelligence is an emergent property in the universe and the creation of such a system is no different.
-</p>
-<p>
-AGI (artificial general intelligence) is not something that can just be manifest from nothing. It requires immense power, 
-research and development, which only the likes of Google are capable of doing. 
-</p>
-<p>
-We have the opportunity to build the next system of intelligence using an emergent model. Crowdsourcing our own power
-and development, we can create an open AGI not governed by the tech incumbents.
-</p>
-</div>
-
-<div id="blurb">
 <h2>Architecture</h2>
   <p>
   Mu will be powered by the open source project <a href="https://micro.dev">Micro</a>. 
