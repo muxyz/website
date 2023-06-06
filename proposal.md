@@ -16,7 +16,7 @@ for entertainment, social networks and advertising. They were not built based on
 lives or the way we interact with people and the world around us.
 </p>
 
-<p>We're proposing a new community app platform built from the ground up based around group first experiences 
+<p>We're proposing a new app platform built from the ground up based on group first experiences 
 using text based messaging and voice interfaces rather than addictive feed scrolling and point and click UIs.
 </p>
 </div>
@@ -25,21 +25,21 @@ using text based messaging and voice interfaces rather than addictive feed scrol
 <h2>Rationale</h2>
 <p>
 The global tech incumbents rule our lives.
-Exploiting our actions and delivering addictive services that are impossible to break free from.
+They deliver addictive services that are impossible to break free from.
 We
 have the opportunity to 
-build a new system which removes these exploits and creates a more free, transparent and open world.
+build a new system which removes these exploits and creates a more free and open technology platform.
 </p>
 <p>
-If successful, Mu will be the foundation for this new open, community based, alternative to the existing services and systems 
-we've come to know and rely upon.
+If successful, Mu will become the foundation for this new open, community based, alternative to the existing services and systems 
+we've come to know and rely upon in the past decades.
 </p>
 </div>
 
 <div id="blurb">
-<h2>Services</h2>
+<h2>Platform</h2>
 
-<p>Mu will include a set of standalone apps starting with Chat. Later we'll move towards creating a
+<p>Mu will include a set of standalone apps starting with Chat, then later move towards creating a
 marketplace and transaction system which will enable people to pay for and access everyday services
 in a simple and straight forward manner.
 </p> 
