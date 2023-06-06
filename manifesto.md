@@ -90,8 +90,8 @@ built is not just benefiting the 1%.
 Who gets to decide how we live our lives or how we interact with technology? Who deems 
 what is right for consumption and what is not? We need an agreed upon code of 
 ethics, morals and values that governs the overall system. To decide what we 
-accept as a service or what is rejected. Part of this will be derived by the 
-initial members and the overall community's belief system. 
+accept as a service or what is rejected. Part of this will be derived by
+the community's belief system. 
 </p>
 </div>
 
