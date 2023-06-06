@@ -125,9 +125,6 @@ We plan to use crowdfunding to bootstrap the project to align with the community
 and early adopters. As keeping with the governance plans, initial donations may 
 be used as a path to membership or early access. 
 </p>
-<p>It's not yet clear what the cost structure will be for the project  but likely the 
-majority will be spent on building the initial team who will deliver the MVP for the network.
-</p>
 </div>
 
 <div id="blurb">
