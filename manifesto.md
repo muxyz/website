@@ -117,7 +117,7 @@ be used as a path to membership or early access.
 
 <div id="blurb">
 <h2>Conclusion</h2>
-Mu is a real world community platform we're proposing, driven by messaging and  voice. Our goal is to create an 
+Mu is a new real world community platform we're proposing, driven by messaging and  voice. Our goal is to create an 
 open alternative to existing platforms that is community driven and accessible to 
 all.
 </div>
