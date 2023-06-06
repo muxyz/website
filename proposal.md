@@ -80,7 +80,7 @@ A demo chat app can be viewed at <a href="https://micro.mu">Micro.mu</a>.
 Who gets to decide how we live our lives or how we interact with technology? Who deems 
 what is right for consumption and what is not? We need an agreed upon code of 
 ethics, morals and values that governs the overall system. To decide what we 
-accept as a service or what is rejected. Part of this will be derived by
+accept as a service or what is rejected. Part of this will be driven by
 the initial members of the community.
 </p>
 </div>
