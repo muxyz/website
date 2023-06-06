@@ -57,7 +57,7 @@ A demo chat app can be viewed at <a href="https://micro.mu">Micro.mu</a>.
 <h2>Architecture</h2>
   <p>
   Mu will be powered by the open source project <a href="https://micro.dev">Micro</a>. 
-  On top of this, We'll introduce a new interface, app and networking model to service 
+  On top of this, We'll introduce a new app, interface and networking model to service 
   the end user.
   </p>
   <p>Learn more</p>
