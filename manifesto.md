@@ -134,10 +134,3 @@ open alternative to existing platforms that is community driven and accessible t
 all.
 </div>
 
-<div id="blurb">
-<h2>Learn More</h2>
-
-   <p>Join <a href="https://discord.gg/TBR9bRjd6Z">Discord</a> to discuss further.
-  </p>
-</div>
-
