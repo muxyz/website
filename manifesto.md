@@ -41,21 +41,19 @@ we've come to know and rely upon.
 </div>
 
 <div id="blurb">
-<h2>Finance</h2>
+<h2>Charity</h2>
 
+<p>Our platform will include a marketplace or transaction system which will benefit it's members but there are others 
+without access who we do not want to leave behind</p> 
 <p>
-Our Network will create significant value for it's participants, however there is another 
-demographic who will not be so privileged. For those people, we want to ensure they are also benefitting from our efforts.
-</p>
-
-<p>
-2.5% of cash holdings in the network will be redistributed yearly to the least privileged by way of charitable donation.
+2.5% of asset holdings in the network will be redistributed yearly to the least privileged by way of charitable donation.
 </p>
 
 <p>
 No system of benefit should be created without taking the least privileged into consideration. We will ensure what's 
 built is not just benefiting the 1%.
 </p>
+
 </div>
 
 <div id="blurb">
