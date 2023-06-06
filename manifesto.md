@@ -28,11 +28,6 @@ which anyone can make use of or contribute to.
 <div id="blurb">
 <h2>Rationale</h2>
 <p>
-The world is moving towards being driven entirely by technology, shifting our experiences to digital rather than 
-physical, where everything is a service. In this new world, we believe there needs to be a model of interaction and system for
-development.
-</p>
-<p>
 The global tech incumbents rule our lives.
 Exploiting our actions and delivering addictive services that are impossible to break free from.
 We
