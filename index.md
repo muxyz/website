@@ -21,6 +21,6 @@ on the needs of people, not profits.
 <div id="abstract">
   <br>
   <p style="text-align: center;">
-    Read the <a href="/manifesto">manifesto</a>.
+    Read the <a href="/proposal">proposal</a>.
   </p>
 </div>
