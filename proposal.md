@@ -44,7 +44,7 @@ marketplace and transaction system which will enable people to pay for and acces
 in a simple and straight forward manner.
 </p> 
 <p>
-Community starts with people, hence our focus on Chat to start. By creating 
+Community begins with it's people, hence our focus on Chat to start. By creating 
 a safe and engaging place for communities we can build the foundations for an open and collaborative 
 platform in the future.
 </p>
@@ -99,7 +99,7 @@ achieve some form of liquidity shareholders.
 <div id="blurb">
 <h2>Funding</h2>
 <p>
-We plan to crowdfund for the initial project bootstrapping to align with the community 
+We will plan to crowdfund for the initial project bootstrapping to align with the community 
 and early members. As keeping with the governance plans, donations will
 be used give first users access.
 </p>
