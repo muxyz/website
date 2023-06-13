@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Mu"
-description: "A community first platform"
+description: "Community app platform"
 ---
 <center>
 Asim Aslam<br>
@@ -40,7 +40,7 @@ we've come to know and rely upon in the past decades.
 <h2>Platform</h2>
 
 <p>Mu will include a set of standalone apps starting with Chat, then later move towards creating a
-marketplace and transaction system which will enable people to pay for and access everyday services
+network and transaction system which will enable people to pay for and access everyday services
 in a simple and straight forward manner.
 </p> 
 <p>
