@@ -102,7 +102,7 @@ achieve some form of liquidity shareholders.
 <p>
 We will plan to crowdfund for the initial project bootstrapping to align with the community 
 and early members. As keeping with the governance plans, donations will
-be used give first users access.
+be used to give first users access.
 </p>
 </div>
 
