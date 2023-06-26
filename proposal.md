@@ -67,9 +67,6 @@ platform in the future.
     <li>L4 <a href="/interface">Interface</a></li>
   </ul>
   <br>
-
-  Checkout the source for
-<a href="https://github.com/micro">Micro</a> on GitHub.
 </div>
 
 <div id="blurb">
