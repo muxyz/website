@@ -48,9 +48,7 @@ Community begins with it's people, hence our focus on Chat to start. By creating
 a safe and engaging place for communities we can build the foundations for an open and collaborative 
 platform in the future.
 </p>
-<p>
-A demo chat app can be viewed at <a href="https://micro.mu">Micro.mu</a>.
-</p>
+
 </div>
 
 <div id="blurb">
