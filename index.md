@@ -11,12 +11,11 @@ face with the web today. The internet has become an addictive and exploitative w
 of the app ecosystem and tech incumbent profit motivations.
 
 <p>Open source was meant to solve these issues but
-that hasn't played out to the way we hoped. There's a need
+that hasn't played out the way we hoped. There's a need
 to start from the ground up and build a new system that provides an open alternative
 to the existing systems we have today.</p>
 <p>
-We propose a new community first app platform starting with Chat, which focuses
-on the needs of people, not profits.
+We propose a new community app platform, which focuses on the needs of people, not profits.
 </p>
 </div>
 <div id="abstract">
