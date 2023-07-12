@@ -16,7 +16,6 @@ and from the external world through the Micro API. All services are built as ope
 Services available thus far:
 
 - address - Address lookup by postcode
-- app - Serverless app deployment
 - avatar - Generate an avatar
 - bitcoin - Bitcoin price and transaction info
 - cache - Fast access key-value storage
@@ -35,7 +34,6 @@ Services available thus far:
 - event - Event stream processing
 - file - Store, list, and retrieve text files
 - forex - Foreign exchange (FX) rates
-- function - Serverless lambda functions
 - geocoding - Address geocoding and reverse lookup
 - google - Google search service
 - holidays - Find the holidays observed in a particular country
