@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Mu"
-description: "A community first platform"
+description: "Community app platform"
 ---
 <center>
 Asim Aslam<br>
@@ -40,7 +40,7 @@ we've come to know and rely upon in the past decades.
 <h2>Platform</h2>
 
 <p>Mu will include a set of standalone apps starting with Chat, then later move towards creating a
-marketplace and transaction system which will enable people to pay for and access everyday services
+network and transaction system which will enable people to pay for and access everyday services
 in a simple and straight forward manner.
 </p> 
 <p>
@@ -48,9 +48,7 @@ Community begins with it's people, hence our focus on Chat to start. By creating
 a safe and engaging place for communities we can build the foundations for an open and collaborative 
 platform in the future.
 </p>
-<p>
-A demo chat app can be viewed at <a href="https://micro.mu">Micro.mu</a>.
-</p>
+
 </div>
 
 <div id="blurb">
@@ -69,9 +67,6 @@ A demo chat app can be viewed at <a href="https://micro.mu">Micro.mu</a>.
     <li>L4 <a href="/interface">Interface</a></li>
   </ul>
   <br>
-
-  Checkout the source for
-<a href="https://github.com/micro">Micro</a> on GitHub.
 </div>
 
 <div id="blurb">
@@ -102,7 +97,7 @@ achieve some form of liquidity shareholders.
 <p>
 We will plan to crowdfund for the initial project bootstrapping to align with the community 
 and early members. As keeping with the governance plans, donations will
-be used give first users access.
+be used to give first users access.
 </p>
 </div>
 
