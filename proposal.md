@@ -16,8 +16,7 @@ for entertainment, social networks and advertising. They were not built based on
 lives or the way we interact with people and the world around us.
 </p>
 
-<p>We're proposing a new app platform built from the ground up based on group first experiences 
-using text based messaging and voice interfaces rather than addictive feed scrolling and point and click UIs.
+<p>We're proposing a new app platform built from the ground up based on community first experiences rather than addictive algorithmic feeds scrolling and Ads based social networks.
 </p>
 </div>
 
@@ -39,12 +38,11 @@ we've come to know and rely upon in the past decades.
 <div id="blurb">
 <h2>Platform</h2>
 
-<p>Mu will include a set of standalone apps starting with Chat, then later move towards creating a
-network and transaction system which will enable people to pay for and access everyday services
+<p>Mu will include a set of standalone "micro" apps, then later move towards creating marketplace and transaction system which will enable people to pay for and access everyday services
 in a simple and straight forward manner.
 </p> 
 <p>
-Community begins with it's people, hence our focus on Chat to start. By creating 
+Community begins with it's people, hence our focus on shared experiences to start. By creating 
 a safe and engaging place for communities we can build the foundations for an open and collaborative 
 platform in the future.
 </p>
@@ -64,7 +62,6 @@ platform in the future.
     <li>L1 <a href="/micro">Micro</a></li>
     <li>L2 <a href="/services">Services</a></li>
     <li>L3 <a href="/network">Network</a></li>
-    <li>L4 <a href="/interface">Interface</a></li>
   </ul>
   <br>
 </div>
@@ -103,7 +100,7 @@ be used to give first users access.
 
 <div id="blurb">
 <h2>Conclusion</h2>
-Mu is a new community first app platform we're proposing, driven by messaging and  voice. Our goal is to create an 
+Mu is a new community first app platform we're proposing. Our goal is to create an 
 open alternative to existing platforms that is community driven and free from exploitation.
 </div>
 
