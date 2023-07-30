@@ -11,7 +11,7 @@ of the tech incumbent profit motivations.
 
 <p>Open source was meant to solve these issues but
 that hasn't played out the way we hoped. There's a need
-to start again and build a new system that provides an open alternative
+to start again and build a new network that provides an open alternative
 to the systems we have today.</p>
 <p>
 We propose a new app platform, which focuses on the needs of people, not profits.
