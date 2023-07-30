@@ -21,6 +21,6 @@ We propose a new community app platform, which focuses on the needs of people, n
 <div id="abstract">
   <br>
   <p style="text-align: center;">
-    Read the <a href="/proposal">proposal</a>.
+    <a href="https://mu.app">Try the app</a>
   </p>
 </div>
