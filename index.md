@@ -8,7 +8,7 @@ description: "Human computer interface"
 <div id="abstract">
 Mu is a new app platform built to address many of the problems we 
 face with the web today. The internet has become an addictive and exploitative walled garden because 
-of the app ecosystem and tech incumbent profit motivations.
+of the tech incumbent profit motivations.
 
 <p>Open source was meant to solve these issues but
 that hasn't played out the way we hoped. There's a need
