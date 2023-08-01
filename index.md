@@ -18,6 +18,6 @@ We propose a new community app platform, which focuses on the needs of people by
 <div id="abstract">
   <br>
   <p style="text-align: center;">
-    <a href="https://mu.app">Try the app</a>
+    <a href="https://mu.app"><button>Try the app</button></a>
   </p>
 </div>
