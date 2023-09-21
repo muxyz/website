@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: "Mu"
 email: 
-description: "A cloud based operating system"
+description: "A Micro app platform"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mu.xyz" # the base hostname & protocol for your site, e.g. http://example.com
-# logo: "/images/mu.png"
+logo: "/public/images/mu-logo-white.png"
 twitter_username: mudotxyz
 github_username:  muxyz
 
