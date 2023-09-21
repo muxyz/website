@@ -6,7 +6,7 @@ description: "A new Micro app platform"
 Having worked on platforms in various forms, I’ve discovered so much of it is buried in old concepts surrounding builds, CI, servers and deployments. Not to mention a bottomless pit of infrastructure dependencies. Why hasn’t this changed? 20 years of the same kind of platforms and the same old dev models. We thought the cloud would unlock something, but we’ve rebuilt a similar kind of complexity that came before, now virtualized and sure automated but still, in numerous pieces with significant overhead.
 
 ## What is Mu?
-Mu is a new kind of platform. One that has no builds, no servers and no infrastructure. What does that mean? It means there is nothing to deploy to, it means there’s no local development and it means everything is focused on the primary goal of micro apps built/consumed on the web.
+[Mu](https://mu.app) is a new kind of platform. One that has no builds, no servers and no infrastructure. What does that mean? It means there is nothing to deploy to, it means there’s no local development and it means everything is focused on the primary goal of micro apps built/consumed on the web.
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*0kANc_7q8h1PTh-tJtIVLw.png">
 
