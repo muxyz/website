@@ -403,4 +403,5 @@ button:hover {
   background: #ccc;
   cursor: pointer;
   font-weight: bold;
+  border: 2px solid white;
 }
