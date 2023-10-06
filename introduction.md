@@ -25,7 +25,8 @@ In the past you’ll have seen the likes of Google build apps or products as ent
 
 More recently companies like the chinese app [WeChat](https://walkthechat.com/wechat-mini-programs-simple-introduction/) used a mini app program to enable developers to build these Micro apps directly into their product, rapidly increasing the footprint of what was available rather than having to build it all themselves. In the future we predict this trend will not only accelerate but we’ll see entire platforms built to help developers and companies monetize using a web app strategy as Micro apps.
 
-## How does Mu fit into this?
+## Mu as a Super App
+
 Mu is a new Micro app platform with user authentication, storage and payments built in. What does that mean? You never have to worry about building signup and login again. Persist data without the need for a database. And get paid for your work without extortionate app store transaction fees. Mu provides all the scaffolding needed for apps.
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*mA0C01d7cufcx2I6KNxJAw.png">
