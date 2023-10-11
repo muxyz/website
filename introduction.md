@@ -37,6 +37,6 @@ Each user app piggybacks off the same user authentication system, the same backe
 
 Why choose crypto for payments you might ask? We believe when the web was born, digital payments was the missing link to enable monetization for app creators. Today it’s a low cost way for developers to programmatically take payments directly in their apps. So we made sure to make it happen.
 
-If you want to learn more, join us on [Discord](https://discord.gg/Ebu99JfEAw) or reach out at [@mudotxyz](https://twitter.com/mudotxyz).
+If you want to learn more, join the [Mu](https://mu.app/home) community or reach out at [@mudotxyz](https://twitter.com/mudotxyz).
 
 Head to the [dev site](https://dev.mu.xyz) to start writing apps. For everything see [Mu.xyz](https://mu.xyz).
