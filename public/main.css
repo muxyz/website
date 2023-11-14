@@ -370,7 +370,7 @@ h1 {
 
 h2 {
   font-weight: 300;
-  max-width: 500px;
+  max-width: 600px;
 }
 
 .bottom-left {
@@ -396,7 +396,7 @@ h2 {
 }
 
 button {
-  padding: 5px;
+  padding: 10px;
   border-radius: 5px;
 }
 button:hover {
