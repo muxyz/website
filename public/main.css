@@ -405,4 +405,8 @@ button:hover {
   font-weight: bold;
   border: 2px solid white;
 }
-a { color: green; text-decoration: none }
+a { 
+  color: green; 
+   text-decoration: none;
+  font-weight: bold;
+}
