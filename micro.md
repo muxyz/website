@@ -18,9 +18,6 @@ with the complexity of distributed systems and provides simpler programmable abs
 - [Getting Started](https://micro.dev/getting-started) - The helloworld quickstart guide
 - [Architecture](https://micro.dev/architecture) - Describes the architecture, design and tradeoffs
 - [Reference](https://micro.dev/reference) - In-depth reference for Micro CLI and services
-- [Resources](https://micro.dev/resources) - External resources and contributions
-- [Roadmap](https://micro.dev/roadmap) - Stuff on our agenda over the long haul
-- [FAQ](https://micro.dev/faq) - Frequently asked questions
 
 ## Features
 
