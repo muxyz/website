@@ -16,7 +16,7 @@ for entertainment, social networks and advertising. They were not built based on
 lives or the way we interact with people and the world around us.
 </p>
 
-<p>We're proposing a new app platform built from the ground up based on community first experiences rather than addictive algorithmic feeds scrolling and Ads based social networks.
+<p>We're proposing a new app platform built from the ground up based on community first experiences rather than addictive algorithmic feeds and Ads based social networks.
 </p>
 </div>
 
