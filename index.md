@@ -16,7 +16,7 @@ for entertainment, social networking and ads. They were not built based on how w
 lives or interact with people and the world around us.
 </p>
 
-<p>We're proposing a new platform built from the ground up based on real world experiences, not feeds or algorithms.
+<p>We're proposing a new platform built from the ground up based on real world needs, not algorithms or feeds.
 </p>
 </div>
 
