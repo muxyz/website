@@ -35,7 +35,7 @@ we've come to know and rely on.
 <div id="blurb">
 <h2>Platform</h2>
 
-<p>Mu will include a set of standalone "micro" apps, then move towards creating marketplace and transaction system enabling people to pay for and access everyday services
+<p>Mu will include a set of standalone "micro" apps, then create a marketplace and transaction system enabling people to pay for and access everyday services
 in a simple and straight forward manner.
 </p> 
 <p>
