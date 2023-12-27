@@ -46,40 +46,15 @@ Community begins with it's people, hence our focus on shared experiences to star
 a safe and engaging place for communities we can build the foundations for an open and collaborative 
 platform in the future.
 </p>
-
 </div>
 
 <div id="blurb">
-<h2>Architecture</h2>
-  <p>
-  Mu will be powered by the open source project <a href="https://micro.dev">Micro</a>. 
-  On top of this, We'll introduce a new app, interface and networking model to service 
-  the end user.
-  </p>
-  <p>Learn more about the project</p>
-
-  <ul id="projects">
-    <li>L1 <a href="/micro">Micro</a></li>
-    <li>L2 <a href="/services">Services</a></li>
-    <li>L3 <a href="/network">Network</a></li>
-    <li>L4 <a href="/interface">Interface</a></li>
-  </ul>
-  <br>
-</div>
-
-<div id="blurb">
-<h2>Values</h2>
+<h2>Funding & Governance</h2>
 <p>
-Who gets to decide how we live our lives or how we interact with technology? Who deems 
-what is right for consumption and what is not? We need an agreed upon code of 
-ethics, morals and values that governs the overall system. To decide what we 
-accept as a service or what is rejected. Part of this will be driven by
-the initial members of the community.
+We will plan to crowdfund for the initial project bootstrapping to align with the community 
+and early members. As keeping with the governance plans, donations will
+be used to give first users access.
 </p>
-</div>
-
-<div id="blurb">
-<h2>Governance</h2>
 <p>
 The Mu platform and network will be governed by a member based 
 community interest company (<a href="https://en.wikipedia.org/wiki/Community_interest_company">CIC</a>).
@@ -89,19 +64,3 @@ contrast to a share based organisation that ultimately has to
 achieve some form of liquidity shareholders.
 </p>
 </div>
-
-<div id="blurb">
-<h2>Funding</h2>
-<p>
-We will plan to crowdfund for the initial project bootstrapping to align with the community 
-and early members. As keeping with the governance plans, donations will
-be used to give first users access.
-</p>
-</div>
-
-<div id="blurb">
-<h2>Conclusion</h2>
-Mu is a new community first app platform we're proposing. Our goal is to create an 
-open alternative to existing platforms that is community driven and free from exploitation.
-</div>
-
