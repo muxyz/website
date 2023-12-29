@@ -39,7 +39,7 @@ we've come to know and rely on.
 in a simple and straight forward manner.
 </p> 
 <p>
-Community begins with it's people, hence our focus on shared experiences. By creating 
+Our focus will be on shared experiences. By creating 
 a safe and engaging place for communities we can build the foundations for an open and collaborative 
 platform in the future.
 </p>
