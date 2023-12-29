@@ -55,8 +55,7 @@ early access to the platform when ready.
 <p>
 Mu will be governed by a member based 
 community interest company (<a href="https://en.wikipedia.org/wiki/Community_interest_company">CIC</a>).
-This allows members to come and go
-over time but maintain a cohesive structure for the long term. This is in 
+This is in 
 contrast to a share based organisation that ultimately has to 
 achieve liquidity shareholders.
 </p>
