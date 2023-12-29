@@ -48,7 +48,7 @@ platform in the future.
 <div id="blurb">
 <h2>Funding & Governance</h2>
 <p>
-Donations will be used for the project bootstrapping to align with the community 
+Sponsorship will be used for the project bootstrapping to align with the community 
 and early members. Sponsors will be given
 early access to the platform when ready.
 </p>
