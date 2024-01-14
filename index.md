@@ -1,8 +1,7 @@
 ---
 layout: default
 title: "Mu"
-description: "Go app platform"
+description: "Building blocks for life"
 ---
-Building blocks for life
 
 [News](https://news.mu.xyz)
