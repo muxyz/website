@@ -4,4 +4,6 @@ title: "Mu"
 description: "Building blocks for life"
 ---
 
-[News](https://news.mu.xyz)
+<center>
+  <a href="https://news.mu.xyz"><button>News</button></a>
+</center>
