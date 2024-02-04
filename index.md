@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Mu"
+title: "Mu - Index"
 description: "Building blocks for life"
 ---
 <center>

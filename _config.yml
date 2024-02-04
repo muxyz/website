@@ -18,7 +18,7 @@ email:
 description: "A Micro app platform"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mu.xyz" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/public/images/mu-logo-white.png"
+logo: "/images/mu.png"
 twitter_username: mudotxyz
 github_username:  muxyz
 
