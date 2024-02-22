@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Home"
+title: "Community"
 description: "Building blocks for life"
 ---
 <center>
