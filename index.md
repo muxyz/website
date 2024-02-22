@@ -10,5 +10,5 @@ description: "Building blocks for life"
 
   <h3>Donate</h3>
   <p>ETH</p>
-  <img src="images/Screenshot_20240222-185412.png" width=200px height=200px >
+  <img src="images/Screenshot_20240222-185412.png" style="width: 200px; height: auto;" >
 </center>
