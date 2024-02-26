@@ -4,6 +4,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{% if page.title and page.title != site.title %}{{ page.title }} | {% endif %}Mu</title>
+    <link rel="canonical" href="https://mu.xyz" />
+    <link rel="manifest" href="/manifest.webmanifest">
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;800&display=swap');
 
@@ -122,5 +124,15 @@
       <div id="footer">&nbsp;
       </div>
     </div>
+
+  <script>
+      if (navigator.serviceWorker) {
+        navigator.serviceWorker.register (
+          '/mu.js',
+          {scope: '/'}
+        )
+      }
+  </script>
+
   </body>
 </html>

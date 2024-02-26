@@ -1,0 +1,17 @@
+{
+  "name": "Mu",
+  "short_name": "Mu",
+  "description": "Building blocks for life",
+  "scope": "/",
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "standalone", 
+  "icons": [
+      {
+        "src": "/images/mu.png",
+        "type": "image/png",
+        "sizes": "300x300"
+      }
+  ]
+}
