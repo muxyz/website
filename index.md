@@ -4,9 +4,26 @@ title: "Community"
 description: "Building blocks for life"
 ---
 <center>
-  <a href="https://chat.mu.xyz"><button style="height: 50px; width: 100px; cursor: pointer;">Chat</button></a>
-  <a href="https://news.mu.xyz"><button style="height: 50px; width: 100px; cursor: pointer;">News</button></a>
-  <a href="https://pray.mu.xyz"><button style="height: 50px; width: 100px; cursor: pointer;">Pray</button></a>
+  <div class="apps">
+  <a href="https://chat.mu.xyz">
+    <button style="height: 60px; width: 100px; cursor: pointer;">
+      <img class="img" src="/images/icons/chat.png">
+      <br>Chat
+    </button>
+  </a>
+  <a href="https://news.mu.xyz">
+    <button style="height: 60px; width: 100px; cursor: pointer;">
+      <img class="img" src="/images/icons/news.png">
+      <br>News
+    </button>
+  </a>
+  <a href="https://pray.mu.xyz">
+    <button style="height: 60px; width: 100px; cursor: pointer;">
+      <img class="img" src="/images/icons/pray.png">
+      <br>Pray
+    </button>
+  </a>
+  </div>
   <br><br>
   <h3>Donate</h3>
   <p>ETH</p>
