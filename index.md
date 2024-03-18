@@ -30,7 +30,7 @@ description: "Building blocks for life"
   <img src="images/Screenshot_20240222-185412.png" style="width: 100px; height: auto;" >
   <p id="address" style="display: none;">0x36C34859bcf9DCC706f1fE2D5789f21f51495499</p>
   <br>
-  <a href="" onclick="cp()">Copy Address</a>
+  <a href="#address" onclick="cp()">Copy Address</a>
 </center>
 <script>
   function cp() {
